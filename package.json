@@ -1,0 +1,29 @@
+{
+  "name": "@networkpro/docs",
+  "version": "0.0.1",
+  "description": "The documentation portal for Network Pro Strategies (Network Pro).",
+  "keywords": [
+    "documentation",
+    "mkdocs",
+    "netwk-pro",
+    "legal"
+  ],
+  "homepage": "https://github.com/netwk-pro/docs#readme",
+  "bugs": {
+    "url": "https://github.com/netwk-pro/docs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netwk-pro/docs.git"
+  },
+  "license": "CC-BY-4.0 OR GPL-3.0-or-later",
+  "author": "Scott Lopez",
+  "type": "module",
+  "main": "index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
