@@ -208,7 +208,7 @@ with a clear title and description.
 &nbsp;
 
 **IMPORTANT**: By submitting a patch, you agree to allow the project
-owners to license your work under the terms of [CC BY 4.0](https://netwk.pro/license#cc-by) and the [GNU GPL](https://netwk.pro/license#gnu-gpl).
+owners to license your work under the terms of [CC BY 4.0](https://docs.netwk.pro/legal/#cc-by) and the [GNU GPL](https://docs.netwk.pro/legal/#gnu-gpl).
 
 <sub>[Back to top](#top)</sub>
 
