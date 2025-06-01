@@ -1,17 +1,10 @@
----
-date:
-  created: 2025-01-01
-  updated: 2025-06-01
-title: About Network Pro&trade;
-summary: Learn more about Network Pro Strategies (Network Pro&trade;) and the services we offer.
-authors:
-  - team
-tags:
-  - networkpro
-  - documentation
-  - about
-  - services
----
+<!-- =====================================================================
+README.md
+
+Copyright © 2025 Network Pro Strategies (Network Pro™)
+SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
+This file is part of Network Pro.
+====================================================================== -->
 
 <sup>[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
 `CC-BY-4.0 OR GPL-3.0-or-later`</sup>
