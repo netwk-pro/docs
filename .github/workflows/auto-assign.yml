@@ -26,7 +26,7 @@ jobs:
       - name: Auto-assign issue or PR
         uses: pozil/auto-assign-issue@v2
         with:
-          repo-token: ${{ secrets.SD311 }}
+          repo-token: ${{ secrets.GH_PAT }}
           assignees: SunDevil311
           numOfAssignee: 1
           allowSelfAssign: true
