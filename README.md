@@ -1,59 +1,27 @@
-<!-- =========================================================================
-README.md
-
-SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
-This file is part of Network Pro.
-========================================================================== -->
-
-<!--
-Copyright © 2025 Network Pro Strategies (Network Pro)
-
+---
+date:
+  created: 2025-01-01
+  updated: 2025-06-01
+title: About Network Pro&trade;
+summary: Learn more about Network Pro Strategies (Network Pro&trade;) and the services we offer.
+authors:
+  - team
+tags:
+  - networkpro
+  - documentation
+  - about
+  - services
 ---
 
-I. Creative Commons Attribution 4.0 International
+<sup>[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
+`CC-BY-4.0 OR GPL-3.0-or-later`</sup>
 
-Network Pro (the "Licensed Material") is licensed under Creative Commons Attribution 4.0 International ("CC BY 4.0"). To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.
+<a name="top"></a>
 
-Per the terms of the License, you are free to distribute, remix, adapt, and build upon the Licensed Material for any purpose, even commercially. You must give appropriate credit, provide a link to the License, and indicate if changes were made.
+# About Network Pro&trade;
 
-The Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable.
-
-Permissions beyond the scope of this License—or instead of those permitted by this License—may be available as further defined within this document.
-
-  SPDX Reference: https://spdx.org/licenses/CC-BY-4.0.html
-  Canonical URL: https://creativecommons.org/licenses/by/4.0/
-
----
-
-II. GNU General Public License
-
-Network Pro is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License ("GNU GPL") as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This material is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
-FITNESS FOR A PARTICULAR PURPOSE.
-
-See the GNU General Public License for more details.
-
-  SPDX Reference: https://spdx.org/licenses/GPL-3.0-or-later.html
-  Canonical URL: https://www.gnu.org/licenses/gpl-3.0.html
-
----
-
-Author: Scott Lopez
-Email: <contact@neteng.pro>
-Web: <https://bio.neteng.pro>
--->
-
-<section id="top">
-
-[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/): `CC-BY-4.0 OR GPL-3.0-or-later`
-
-# Network Pro Strategies
-
-</section>
-
-[![Build Site and Deploy to GH Pages](https://github.com/netwk-pro/blog/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/netwk-pro/blog/actions/workflows/build-and-deploy.yml) [![Publish to Registries](https://github.com/netwk-pro/blog/actions/workflows/publish.yml/badge.svg)](https://github.com/netwk-pro/blog/actions/workflows/publish.yml)  
-[![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fblog?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&color=%23CB3837)](https://www.npmjs.com/package/@networkpro/blog) [![Code Style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/CODE_OF_CONDUCT.md)
+[![Build Site and Deploy to GH Pages](https://github.com/netwk-pro/docs/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/netwk-pro/docs/actions/workflows/build-and-deploy.yml) [![Publish to Registries](https://github.com/netwk-pro/docs/actions/workflows/publish.yml/badge.svg)](https://github.com/netwk-pro/docs/actions/workflows/publish.yml)  
+[![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fdocs?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&color=%23CB3837)](https://www.npmjs.com/package/@networkpro/docs) [![Code Style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/CODE_OF_CONDUCT.md)
 
 ## Security That Respects You
 
@@ -79,37 +47,25 @@ We also believe education is a core pillar of real-world security. That’s why 
 
 &nbsp;
 
-🔹 [Let’s connect](https://contact.neteng.pro) to discuss how we can help secure and strengthen your business today.
+🔹 [Let’s connect](https://netwk.pro/contact) to discuss how we can help secure and strengthen your business today.
 
 ---
 
 You can find our PGP keys and a vCard containing our contact information for your convenience below.
 
-|                                                                                                                                                                                                                                                                                                                                                               <img decoding="async" loading="lazy" src="https://raw.githubusercontent.com/netwk-pro/netwk-pro.github.io/refs/heads/master/img/qr/pgp-support.png" width="125px" height="125px" alt="PGP Key - support@neteng.pro"> | **[support@neteng.pro](https://keys.openpgp.org/search?q=support%40neteng.pro)**<br />**PGP Key (ed25519)**<br />&nbsp;<br /><a href="https://raw.githubusercontent.com/netwk-pro/netwk-pro.github.io/refs/heads/master/assets/bin/support@neteng.pro.aexpk" type="application/pgp-keys">**aexpk**</a>&nbsp; **&#47;** &nbsp;<a href="https://raw.githubusercontent.com/netwk-pro/netwk-pro.github.io/refs/heads/master/assets/bin/support@neteng.pro.asc" type="application/pgp-keys">**asc**</a><br />&nbsp;<br />6590b992e2e3eff12738<br />7bce2af093e9dec61ba0 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[contact@s.neteng.pro](https://keys.openpgp.org/search?q=contact%40s.neteng.pro)**<br />**PGP Key (ed25519)**<br />&nbsp;<br /><a href="https://raw.githubusercontent.com/netwk-pro/netwk-pro.github.io/refs/heads/master/assets/bin/contact@s.neteng.pro.aexpk" type="application/pgp-keys">**aexpk**</a>&nbsp; **&#47;** &nbsp;<a href="https://raw.githubusercontent.com/netwk-pro/netwk-pro.github.io/refs/heads/master/assets/bin/contact@s.neteng.pro.asc" type="application/pgp-keys">**asc**</a><br />&nbsp;<br />**df118baa6c2d9dcdebdc**<br />**2ddcf99373499495f957** | <img decoding="async" loading="lazy" src="https://raw.githubusercontent.com/netwk-pro/netwk-pro.github.io/refs/heads/master/img/qr/pgp-contact.png" width="125px" height="125px" alt="PGP Key - contact@s.neteng.pro">                                                                                                                                                                                                                                                                                                                                             |
-|                                                                                                                                                                                                                                                                                                                                                                                            <img decoding="async" loading="lazy" src="https://raw.githubusercontent.com/netwk-pro/netwk-pro.github.io/refs/heads/master/img/qr/vcard.png" width="125px" height="125px" alt="vCard"> | **vCard**<br />&nbsp;<br /><a href="https://raw.githubusercontent.com/netwk-pro/netwk-pro.github.io/refs/heads/master/assets/bin/contact.vcf">**vcf**</a>                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                                                                                                                                                                      <img decoding="async" loading="lazy" src="https://netwk.pro/img/qr/pgp-support.png" height="150px" width="150px" alt="PGP Key - support@neteng.pro"> | **[support@neteng.pro](https://keys.openpgp.org/search?q=support%40neteng.pro)**<br />**PGP Key (ed25519)**<br />&nbsp;<br /><a href="https://netwk.pro/assets/bin/support@neteng.pro.asc" type="application/pgp-keys" download target="_blank">**asc**</a><br />&nbsp;<br />**6590B992E2E3EFF12738**<br />**7BCE2AF093E9DEC61BA0** |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[contact@s.neteng.pro](https://keys.openpgp.org/search?q=contact%40s.neteng.pro)**<br />**PGP Key (ed25519)**<br />&nbsp;<br /><a href="https://netwk.pro/assets/bin/contact@s.neteng.pro.asc" type="application/pgp-keys" download target="_blank">**asc**</a><br />&nbsp;<br />**E8B4F1193B21601207B0**<br />**80BBAEBBB8F6D4BB723B** | <img decoding="async" loading="lazy" src="https://netwk.pro/img/qr/pgp-contact.png" height="150px" width="150px" alt="PGP Key - contact@s.neteng.pro">                                                                                                                                                                              |
+|                                                                                                                                                                                                                   <img decoding="async" loading="lazy" src="https://netwk.pro/img/qr/vcard.png" height="150px" width="150px" alt="vCard"> | **vCard**<br />&nbsp;<br /><a href="https://netwk.pro/assets/bin/contact.vcf" type="text/vcard" download target="_blank">**vcf**</a>                                                                                                                                                                                                |
 
 <sub>[Back to top](#top)</sub>
 
 ---
 
-<div style="font-size: 12px; font-weight: bold; text-align: center;">
-
-[Home](https://netwk.pro) &nbsp; | &nbsp; [Terms of Use](https://netwk.pro/terms-of-use.html)  
-[Privacy Policy](https://netwk.pro/privacy.html) &nbsp; | &nbsp; [Legal](https://netwk.pro/legal.html)
-
-</div>
-
-&nbsp;
-
 <span style="font-size: 12px; text-align: center;">
 
-Copyright &copy; 2025  
-**[Network Pro Strategies](https://netwk.pro/)** (Network Pro&trade;)
+<p>Network Pro&trade;, the shield logo, and the "Locking Down Networks&trade;" slogan are <a href="https://docs.netwk.pro/legal/#trademark" target="_self">trademarks</a> of Network Pro Strategies.</p>
 
-Network Pro&trade;, the shield logo, and the "Locking Down Networks&trade;" slogan are [trademarks](https://netwk.pro/license#trademark) of Network Pro Strategies.
-
-Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the [Free Software Foundation](https://fsf.org), either version 3 of the License, or (at your option) any later version.
+<p>Licensed under <a href="https://docs.netwk.pro/legal/#cc-by" target="_self"><strong>CC BY 4.0</strong></a> and the <a href="https://docs.netwk.pro/legal/#gnu-gpl" target="_self"><strong>GNU GPL</strong></a>, as published by the <a rel="noopener noreferrer" href="https://fsf.org" target="_blank">Free Software Foundation</a>, either version 3 of the License, or (at your option) any later version.</p>
 
 </span>
