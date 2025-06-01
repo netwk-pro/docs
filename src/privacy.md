@@ -1,7 +1,7 @@
 ---
 date:
   created: 2025-04-18
-  updated: 2025-05-18
+  updated: 2025-05-28
 title: Privacy Policy
 summary: The Privacy Policy established by Network Pro Strategies.
 authors:
@@ -9,7 +9,7 @@ authors:
 categories:
   - Privacy
 tags:
-  - network-pro
+  - networkpro
   - documentation
   - legal
   - privacy
@@ -24,25 +24,29 @@ tags:
 # Privacy Policy
 
 **Network Pro Strategies**  
-**Effective Date:** May 18, 2025
+**Effective Date:** May 28, 2025
+
+**Official Version Notice**  
+This document is provided for convenience only. In the event of any discrepancy, the authoritative version is the one published at [https://netwk.pro](https://netwk.pro).
 
 &nbsp;
 
 1. [Introduction](#intro)
 2. [Information We Collect](#collect)
-3. [Payment Information](#payment)
-4. [Use of Information](#use)
-5. [Data Sharing](#sharing)
-6. [Data Security](#security)
-7. [User Rights](#rights)
-8. [Third-Party Links](#third-party)
-9. [Disclaimers and Limitations](#disclaimers)
-10. [Policy Changes](#changes)
-11. [Contact](#contact)
+3. [Web Analytics and Tracking](#tracking)
+4. [Payment Information](#payment)
+5. [Use of Information](#use)
+6. [Data Sharing](#sharing)
+7. [Data Security](#security)
+8. [User Rights](#rights)
+9. [Third-Party Links](#third-party)
+10. [Disclaimers and Limitations](#disclaimers)
+11. [Policy Changes](#changes)
+12. [Contact](#contact)
 
 ---
 
-**Formats Available:** [HTML](https://netwk.pro/privacy-policy) | <span style="visited">Markdown</span>
+**Formats Available:** [HTML](https://netwk.pro/privacy) | <span style="visited">Docs</span>
 
 <a name="intro"></a>
 
@@ -63,9 +67,29 @@ We may collect the following categories of information:
 
 <sub>[Back to top](#top)</sub>
 
+<a name="tracking"></a>
+
+## 3. Web Analytics and Tracking
+
+To better understand visitor behavior and optimize website functionality, we use **PostHog Cloud**, a hosted version of the open-source PostHog analytics platform. This tool helps us evaluate site performance and user engagement through the collection of non-personally identifiable technical data.
+
+PostHog Cloud may collect and process information such as:
+
+- Pages visited and navigation behavior
+- Device type, browser version, and operating system
+- Time spent on pages and interaction events (e.g., clicks, scrolls)
+- Referral URLs and outbound link activity
+- General geolocation (approximate, based on IP address)
+
+We configure PostHog to prioritize user privacy. **Analytics tracking is automatically disabled when a user's browser sends a “Do Not Track” (DNT) or [“Global Privacy Control” (GPC / Sec-GPC)](https://globalprivacycontrol.org/) signal**. No further action is required—your browser settings are honored by default.
+
+You can view your current tracking status on the [authoritative Privacy Policy page](https://netwk.pro/privacy) or via the [Privacy Dashboard](https://netwk.pro/privacy-dashboard). Additionally, you can set manual opt-out and opt-in settings stored as browser cookies. These settings override any Do Not Track (DNT) or Global Privacy Control (GPC) signals. **If you opt out, analytics tracking via PostHog is disabled entirely until you change your preference.** Your selection will persist until manually updated.
+
+For convenient access, you can manage these settings through our [Privacy Dashboard](https://netwk.pro/privacy-dashboard).
+
 <a name="payment"></a>
 
-## 3. Payment Information
+## 4. Payment Information
 
 When processing payments, we may collect credit card details and billing contact information. All credit card data is encrypted via TLS and shared only with PCI-compliant processors. **Data is purged within 90 days post-verification of payment.**
 
@@ -73,7 +97,7 @@ When processing payments, we may collect credit card details and billing contact
 
 <a name="use"></a>
 
-## 4. Use of Information
+## 5. Use of Information
 
 Information is used to:
 
@@ -86,7 +110,7 @@ Information is used to:
 
 <a name="sharing"></a>
 
-## 5. Data Sharing
+## 6. Data Sharing
 
 We do not sell personal information. However, we may share personal and business information under the following circumstances:
 
@@ -98,7 +122,7 @@ We do not sell personal information. However, we may share personal and business
 
 <a name="security"></a>
 
-## 6. Data Security
+## 7. Data Security
 
 We implement industry-standard security measures to protect your data. However, no method of transmission over the Internet or electronic storage is completely secure, and we cannot guarantee absolute security. In compliance with **A.R.S. § 18-552**, we will notify affected individuals in the event of a data breach involving personal information.
 
@@ -106,11 +130,11 @@ We implement industry-standard security measures to protect your data. However, 
 
 <a name="rights"></a>
 
-## 7. User Rights
+## 8. User Rights
 
 <!-- markdownlint-disable MD036 -->
 
-**Your Rights and Choices**
+### Your Rights and Choices
 
 <!-- markdownlint-enable MD036 -->
 
@@ -126,7 +150,7 @@ To exercise these rights, please use our [Privacy Rights Request Form](https://n
 
 <a name="third-party"></a>
 
-## 8. Third-Party Links
+## 9. Third-Party Links
 
 Our site may contain links to third-party sites. We are not responsible for their privacy practices.
 
@@ -134,7 +158,7 @@ Our site may contain links to third-party sites. We are not responsible for thei
 
 <a name="disclaimers"></a>
 
-## 9. Disclaimers and Limitations
+## 10. Disclaimers and Limitations
 
 Network Pro Strategies offers informational content as a public service. No warranties are made regarding the accuracy or completeness of such content. Consulting services are governed by separate contracts. We disclaim liability for third-party services integrated or referenced.
 
@@ -142,7 +166,7 @@ Network Pro Strategies offers informational content as a public service. No warr
 
 <a name="changes"></a>
 
-## 10. Policy Changes
+## 11. Policy Changes
 
 We may update this policy periodically. Changes are effective upon posting.
 
@@ -150,21 +174,21 @@ We may update this policy periodically. Changes are effective upon posting.
 
 <a name="contact"></a>
 
-## 11. Contact
+## 12. Contact
 
 For questions, contact:
 
 **Network Pro Strategies**  
 📧 General Inquiries: `support (at) neteng.pro`  
-🔐 Secure Contact: `contact (at) s.neteng.pro`  
+🔐 Secure Email: `contact (at) s.neteng.pro`  
 📞 Phone: (623) 252-4350
 
 ---
 
-<div style="font-size: 12px; text-align: center;">
+<span style="font-size: 12px; text-align: center;">
 
-<p>Network Pro&trade;, the shield logo, and the "Locking Down Networks&trade;" slogan are <a href="https://netwk.pro/license#trademark" target="_self">trademarks</a> of Network Pro Strategies.</p>
+<p>Network Pro&trade;, the shield logo, and the "Locking Down Networks&trade;" slogan are <a href="https://docs.netwk.pro/legal/#trademark" target="_self">trademarks</a> of Network Pro Strategies.</p>
 
-<p>Licensed under <a href="https://netwk.pro/license#cc-by" target="_self"><strong>CC BY 4.0</strong></a> and the <a href="https://netwk.pro/license#gnu-gpl" target="_self"><strong>GNU GPL</strong></a>, as published by the <a rel="noopener noreferrer" href="https://fsf.org" target="_blank">Free Software Foundation</a>, either version 3 of the License, or (at your option) any later version.</p>
+<p>Licensed under <a href="https://docs.netwk.pro/legal/#cc-by" target="_self"><strong>CC BY 4.0</strong></a> and the <a href="https://docs.netwk.pro/legal/#gnu-gpl" target="_self"><strong>GNU GPL</strong></a>, as published by the <a rel="noopener noreferrer" href="https://fsf.org" target="_blank">Free Software Foundation</a>, either version 3 of the License, or (at your option) any later version.</p>
 
-</div>
+</span>

@@ -1,16 +1,18 @@
-site_name: Network Pro Strategies
-site_url: https://netwk.pro/docs/
-repo_url: https://github.com/netwk-pro/netwk-pro-blog
+site_name: Documentation - Network Pro™
+site_url: https://docs.netwk.pro/
+repo_url: https://github.com/netwk-pro/netwk-pro.github.io
 repo_name: GitHub
-docs_dir: docs_raw
+docs_dir: src
 site_dir: build/
 
 theme:
   name: material
   language: en
-  font: false
-  logo: img/logo.png
-  favicon: img/logo.png
+  font:
+    text: null
+    code: null
+  logo: /icon-512x512.png
+  favicon: /favicon.svg
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -41,12 +43,12 @@ theme:
     - navigation.tabs
     - navigation.indexes
     - toc.follow
-    #- toc.integrate
+    - toc.integrate
     - navigation.top
     - search.suggest
 
 extra:
-  base_url: /docs/
+  base_url: /
   consent:
     title: Cookie Consent
     description: >-
@@ -76,11 +78,11 @@ extra:
       name: Network Pro on LinkedIn
       link: https://linkedin.com/company/netwk-pro/
     - icon: fontawesome/brands/mastodon
-      name: Network Pro on Mastoon
+      name: Network Pro on Mastodon
       link: https://noc.social/@neteng_pro/
     - icon: fontawesome/solid/at
       name: Contact Us
-      link: https://contact.neteng.pro/
+      link: https://netwk.pro/contact
 
 copyright: >
   Copyright &copy; 2025 Network Pro Strategies (Network Pro&trade;) –
@@ -101,7 +103,8 @@ nav:
       - terms-use.md
       - terms-conditions.md
   - Contributing:
-      - conduct.md
+      - Code of Conduct: conduct.md
+      - Contribute to Network Pro™: contributing.md
   - Tags: tags.md
   - Blog: https://blog.netwk.pro
   - Back to Website: https://netwk.pro

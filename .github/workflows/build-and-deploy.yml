@@ -27,6 +27,7 @@ jobs:
     runs-on: ubuntu-24.04
     # Continue workflow even if this job fails due to inability to find and/or check CodeQL workflow
     continue-on-error: true
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -54,6 +55,7 @@ jobs:
   build:
     needs: check-codeql
     runs-on: ubuntu-24.04
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -64,19 +66,10 @@ jobs:
           node-version: lts/*
           check-latest: true
           cache: npm
+          cache-dependency-path: package-lock.json
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
-
-      - name: Cache Node.js modules
-        uses: actions/cache@v4
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-lts-${{ hashFiles('package-lock.json', 'package.json', '.npmrc') }}
-          restore-keys: |
-            ${{ runner.os }}-node-lts-build-
-            ${{ runner.os }}-node-lts-
-            ${{ runner.os }}-
 
       - name: Install Node.js dependencies
         run: npm ci
@@ -89,9 +82,9 @@ jobs:
 
       - name: Install MkDocs and plugins
         run: |
-          pip install mkdocs mkdocs-material mkdocs-material-extensions mkdocs-get-deps mkdocs-rss-plugin
+          pip install mkdocs mkdocs-material mkdocs-material-extensions mkdocs-get-deps
 
-      # Strict mode temporarily disabled as workaround for mkdocs-material
+      # Strict mode disabled as workaround for mkdocs-material
       - name: Build MkDocs documentation
         run: mkdocs build
       # MkDocs Integration Ends

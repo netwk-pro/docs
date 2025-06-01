@@ -1,0 +1,36 @@
+{
+  "name": "Network Pro™ Documentation",
+  "short_name": "Docs",
+  "description": "Access our repository and legal documentation anytime, anywhere. Fully optimized for speed, security, and mobile use.",
+  "start_url": "/?utm_source=homescreen",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "minimal-ui"],
+  "background_color": "#191919",
+  "theme_color": "#ffc627",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/icon-512x512-maskable.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-splash.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "orientation": "any",
+  "scope": "/",
+  "categories": ["blog", "security", "technology", "network", "privacy"]
+}

@@ -1,65 +1,35 @@
-<!-- =========================================================================
-LICENSE.md
-
-SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
-This file is part of Network Pro.
-========================================================================== -->
-
-<!--
-Copyright © 2025 Network Pro Strategies (Network Pro)
-
+---
+date:
+  created: 2025-04-21
+  updated: 2025-05-28
+title: Legal, Copyright, and Licensing
+summary: Legal, copyright, and licensing information for Network Pro's public repositories.
+authors:
+  - team
+tags:
+  - networkpro
+  - documentation
+  - legal
+  - copyright
+  - licensing
+  - trademark
+  - usage
 ---
 
-I. Creative Commons Attribution 4.0 International
-
-Network Pro (the "Licensed Material") is licensed under Creative Commons Attribution 4.0 International ("CC BY 4.0"). To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.
-
-Per the terms of the License, you are free to distribute, remix, adapt, and build upon the Licensed Material for any purpose, even commercially. You must give appropriate credit, provide a link to the License, and indicate if changes were made.
-
-The Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable.
-
-Permissions beyond the scope of this License—or instead of those permitted by this License—may be available as further defined within this document.
-
-  SPDX Reference: https://spdx.org/licenses/CC-BY-4.0.html
-  Canonical URL: https://creativecommons.org/licenses/by/4.0/
-
----
-
-II. GNU General Public License
-
-Network Pro is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License ("GNU GPL") as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This material is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
-See the GNU General Public License for more details.
-
-  SPDX Reference: https://spdx.org/licenses/GPL-3.0-or-later.html
-  Canonical URL: https://www.gnu.org/licenses/gpl-3.0.html
-
----
-
-Author: Scott Lopez
-Email: <contact@neteng.pro>
-Web: <https://bio.neteng.pro>
--->
-
-[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
-`CC-BY-4.0 OR GPL-3.0-or-later`
+<sup>[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
+`CC-BY-4.0 OR GPL-3.0-or-later`</sup>
 
 <a name="top"></a>
 
 # Legal, Copyright, and Licensing
 
 **Network Pro Strategies**  
-**Effective Date:** April 21, 2025
+**Effective Date:** May 28, 2025
+
+**Official Version Notice**  
+This document is provided for convenience only. In the event of any discrepancy, the authoritative version is the one published at [https://netwk.pro](https://netwk.pro).
 
 &nbsp;
-
-<!-- markdownlint-disable MD001 -->
-
-### Table of Contents
-
-<!-- markdownlint-enable MD001 -->
 
 1. [Copyright](#ownership)
 2. [Trademark Ownership](#trademark)
@@ -72,13 +42,13 @@ Web: <https://bio.neteng.pro>
 9. [Third-Party Code and Licenses](#third-party)
 10. [Prohibited Uses](#prohibited-uses)
 11. [Modifications and Liability Disclaimer](#disclaimer)
-12. [Contact](#contact)
+12. [Authoritative Version Clause](#version)
 13. [Revisions](#revisions)
-14. [Attribution](#attribution)
+14. [Contact](#contact)
 
 ---
 
-**Formats Available:** [HTML](https://docs.netwk.pro/legal) | Markdown
+**Formats Available:** [HTML](https://netwk.pro/license) | <span style="visited">Docs</span>
 
 <a name="ownership"></a>
 
@@ -144,7 +114,7 @@ This work is dual-licensed under:
 
 <a name="cc-by"></a>
 
-## 6. Creative Commons License (CC BY 4.0)
+## 7. Creative Commons License (CC BY 4.0)
 
 <sup>Formats: [HTML](https://legal.netwk.pro/html/CC-BY-4.0.html) | [Markdown](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/CC-BY-4.0.md) | [Text](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/CC-BY-4.0.txt) | [RDFa](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/CC-BY-4.0-rdfa.xml) | [XMP](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/CC-BY-4.0.xml)</sup>
 
@@ -170,7 +140,7 @@ Permissions beyond the scope of this License—or instead of those permitted by 
 
 <a name="gnu-gpl"></a>
 
-## 7. GNU General Public License (GPL)
+## 8. GNU General Public License (GPL)
 
 <sup>Formats: [HTML](https://legal.netwk.pro/html/COPYING.html) | [Markdown](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/COPYING.md) | [Text](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/COPYING.txt) | [RDFa](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/COPYING-rdfa.xml) | [ODT](https://github.com/netwk-pro/netwk-pro-legal/raw/refs/heads/master/assets/license/COPYING.odt)</sup>
 
@@ -203,7 +173,7 @@ The inclusion, reference, or linking of any third-party content **does not const
 
 <a name="prohibited-uses"></a>
 
-## 9. Prohibited Uses
+## 10. Prohibited Uses
 
 **The following activities are strictly prohibited and may constitute infringement or unfair competition under applicable law, unless explicitly authorized in writing by the Company:**
 
@@ -216,7 +186,7 @@ The inclusion, reference, or linking of any third-party content **does not const
 
 <a name="disclaimer"></a>
 
-## 10. Modifications and Liability Disclaimer
+## 11. Modifications and Liability Disclaimer
 
 Modifications, redistribution, or any use of the Licensed Material are performed entirely at your own risk.
 
@@ -226,71 +196,39 @@ Modifications, redistribution, or any use of the Licensed Material are performed
 
 <sub>[Back to top](#top)</sub>
 
-<a name="contact"></a>
+<a name="version"></a>
 
-## 11. Contact
+## 12. Authoritative Version Clause
 
-The Company may be contacted via our [contact form](https://contact.neteng.pro) or by email at:  
-📧 `support (at) neteng.pro`
+In the event of any discrepancy between different versions, formats, or distributions of any legal document issued by the Company&mdash;including but not limited to license terms, policies, notices, or agreements&mdash;the version published on the Company's primary website at [https://netwk.pro](https://netwk.pro) shall be deemed the official and controlling version.
+
+It is your responsibility to review the most current version of any applicable legal document before relying on its contents. Continued use of the Company's materials, services, or Licensed Material constitutes acceptance of the most current version then in effect.
 
 <sub>[Back to top](#top)</sub>
 
 <a name="revisions"></a>
 
-## 12. Revisions
+## 13. Revisions
 
 This legal page may be updated to comply with legal or operational changes. The current effective date is listed at the top of this document.
 
 <sub>[Back to top](#top)</sub>
 
-<a name="attribution"></a>
+<a name="contact"></a>
 
-## 13. Attribution
+## 14. Contact
 
-Website base structure provided by HTML5 Boilerplate:  
-&lt;[https://html5boilerplate.com/](https://html5boilerplate.com/)>&gt;
-
-```markdown
-Copyright (c) HTML5 Boilerplate
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-```
+The Company may be contacted via our [Contact Form](https://netwk.pro/contact) or by email at:  
+📧 `support (at) neteng.pro`
 
 <sub>[Back to top](#top)</sub>
 
 ---
 
-<div style="font-size: 12px; font-weight: bold; text-align: center;">
+<span style="font-size: 12px; text-align: center;">
 
-[Home](https://netwk.pro/) &nbsp; | &nbsp; [Terms of Use](https://netwk.pro/terms-of-use.html)  
-[Privacy Policy](https://netwk.pro/privacy.html) &nbsp; | &nbsp; Legal
+<p>Network Pro&trade;, the shield logo, and the "Locking Down Networks&trade;" slogan are <a href="#trademark" target="_self">trademarks</a> of Network Pro Strategies.</p>
 
-</div>
+<p>Licensed under <a href="#cc-by" target="_self"><strong>CC BY 4.0</strong></a> and the <a href="#gnu-gpl" target="_self"><strong>GNU GPL</strong></a>, as published by the <a rel="noopener noreferrer" href="https://fsf.org" target="_blank">Free Software Foundation</a>, either version 3 of the License, or (at your option) any later version.</p>
 
-&nbsp;
-
-<div style="font-size: 12px; text-align: center;">
-
-Copyright &copy; 2025  
-**[Network Pro Strategies](https://netwk.pro/)** (Network Pro&trade;)
-
-Network Pro&trade;, the shield logo, and the "Locking Down Networks&trade;" slogan are [trademarks](#trademark) of Network Pro Strategies.
-
-Licensed under **[CC BY 4.0](#cc-by)** and the **[GNU GPL](#gnu-gpl)**, as published by the [Free Software Foundation](https://www.fsf.org), either version 3 of the License, or (at your option) any later version.
-
-</div>
+</span>

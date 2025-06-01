@@ -1,6 +1,5 @@
 ---
-title: Tags
-#template: tags.html
+title: Tag Index
 ---
 
 <sup>[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
@@ -9,3 +8,5 @@ title: Tags
 # Tags
 
 This page lists all of the tags used in the documentation. Click on a tag to see all the related pages.
+
+<!-- material/tags -->
