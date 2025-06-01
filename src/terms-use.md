@@ -1,13 +1,13 @@
 ---
 date:
   created: 2025-04-18
-  updated: 2025-05-18
+  updated: 2025-05-21
 title: Website Terms of Use
 summary: The Privacy Policy established by Network Pro Strategies.
 authors:
   - team
 tags:
-  - network-pro
+  - networkpro
   - documentation
   - legal
   - website
@@ -23,7 +23,10 @@ tags:
 # Website Terms of Use
 
 **Network Pro Strategies**  
-**Effective Date:** May 8, 2025
+**Effective Date:** May 21, 2025
+
+**Official Version Notice**  
+This document is provided for convenience only. In the event of any discrepancy, the authoritative version is the one published at [https://netwk.pro](https://netwk.pro).
 
 &nbsp;
 
@@ -42,7 +45,7 @@ tags:
 
 ---
 
-**Formats Available:** [HTML](https://netwk.pro/terms-of-use) | <span class="visited">Markdown</span>
+**Formats Available:** [HTML](https://netwk.pro/terms-of-use) | <span class="visited">Docs</span>
 
 <a name="#1-introduction"></a>
 
@@ -56,7 +59,7 @@ Welcome! By accessing or using any of the platforms operated by Network Pro Stra
 
 ## 2. Platforms Covered
 
-These Terms of Use apply to all platforms associated with the Company, including but not limited to: **GitHub, our main website (hosted via GitHub Pages), communications on Discord and/or Slack, Stack Overflow Teams, Nextcloud, and our social media presence (e.g., Facebook, Instagram, X, and similar platforms)**.
+These Terms of Use apply to all platforms associated with the Company, including but not limited to: **GitHub, our main website (hosted via Netlify and GitHub Pages), Stack Overflow Teams, Nextcloud, communications on Discord and/or Slack, and our social media presence (e.g., Facebook, Instagram, X, and similar platforms)**.
 
 <sub>[Back to top](#top)</sub>
 
@@ -134,14 +137,14 @@ We may update these Terms of Use periodically. Updates will be posted on this pa
 
 <a name="moredetails"></a>
 
-> **Note:** For more details regarding our privacy practices, refer to our [Privacy Policy](https://netwk.pro/privacy). For licensing terms and content usage rights, please visit our [Legal, Copyright, and Licensing](https://netwk.pro/license) page.
+> **Note:** For more details regarding our privacy practices, refer to our [Privacy Policy](https://docs.netwk.pro/privacy). For licensing terms and content usage rights, please visit our [Legal, Copyright, and Licensing](https://docs.netwk.pro/legal) page.
 
 ---
 
-<div style="font-size: 12px; text-align: center;">
+<span style="font-size: 12px; text-align: center;">
 
-<p>Network Pro&trade;, the shield logo, and the "Locking Down Networks&trade;" slogan are <a href="https://netwk.pro/license#trademark" target="_self">trademarks</a> of Network Pro Strategies.</p>
+<p>Network Pro&trade;, the shield logo, and the "Locking Down Networks&trade;" slogan are <a href="https://docs.netwk.pro/legal/#trademark" target="_self">trademarks</a> of Network Pro Strategies.</p>
 
-<p>Licensed under <a href="https://netwk.pro/license#cc-by" target="_self"><strong>CC BY 4.0</strong></a> and the <a href="https://netwk.pro/license#gnu-gpl" target="_self"><strong>GNU GPL</strong></a>, as published by the <a rel="noopener noreferrer" href="https://fsf.org" target="_blank">Free Software Foundation</a>, either version 3 of the License, or (at your option) any later version.</p>
+<p>Licensed under <a href="https://docs.netwk.pro/legal/#cc-by" target="_self"><strong>CC BY 4.0</strong></a> and the <a href="https://docs.netwk.pro/legal/#gnu-gpl" target="_self"><strong>GNU GPL</strong></a>, as published by the <a rel="noopener noreferrer" href="https://fsf.org" target="_blank">Free Software Foundation</a>, either version 3 of the License, or (at your option) any later version.</p>
 
-</div>
+</span>

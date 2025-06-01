@@ -19,13 +19,14 @@ permissions:
 
 # Allow one concurrent deployment
 concurrency:
-  group: "pages"
+  group: "build-and-publish"
   cancel-in-progress: true
 
 jobs:
   build:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-24.04
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -35,7 +36,8 @@ jobs:
         with:
           node-version: lts/*
           check-latest: true
-          cache: npm # This handles caching ~/.npm based on package.json
+          cache: npm
+          cache-dependency-path: package-lock.json
 
       - name: Install Node.js dependencies
         run: npm ci
@@ -48,35 +50,40 @@ jobs:
 
       - name: Install MkDocs and plugins
         run: |
-          pip install mkdocs mkdocs-material mkdocs-material-extensions mkdocs-get-deps mkdocs-rss-plugin
+          pip install mkdocs mkdocs-material mkdocs-material-extensions mkdocs-get-deps
 
       - name: Build MkDocs documentation
         run: mkdocs build
 
-      - name: Copy package.json and README.md to build directory
-        run: cp package.json README.md build/
+      # Remove build artifacts to avoid publishing them
+      - name: Clean build directory
+        run: rm -rf build/
 
-      - name: Upload build artifacts
+      # Upload clean source code
+      - name: Upload repository artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: build-artifacts
-          path: build/
+          name: repo-artifacts
+          path: ./
 
   publish-npm:
     needs: build
     runs-on: ubuntu-24.04
+
     steps:
-      - name: Download build artifacts
+      - name: Download repository artifacts
         uses: actions/download-artifact@v4
         with:
-          name: build-artifacts
-          path: build/
+          name: repo-artifacts
+          path: ./
 
       - name: Set up Node.js for npmjs
         uses: actions/setup-node@v4
         with:
           node-version: lts/*
+          check-latest: true
           registry-url: https://registry.npmjs.org/
+          cache: npm
 
       - name: Set up Git user
         run: |
@@ -84,7 +91,6 @@ jobs:
           git config --global user.name "SunDevil311"
 
       - name: Publish package to npmjs
-        working-directory: ./build
         run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_NETPRO }}
@@ -92,18 +98,21 @@ jobs:
   publish-gpr:
     needs: build
     runs-on: ubuntu-24.04
+
     steps:
-      - name: Download build artifacts
+      - name: Download repository artifacts
         uses: actions/download-artifact@v4
         with:
-          name: build-artifacts
-          path: build/
+          name: repo-artifacts
+          path: ./
 
       - name: Set up Node.js for GPR
         uses: actions/setup-node@v4
         with:
           node-version: lts/*
+          check-latest: true
           registry-url: https://npm.pkg.github.com/
+          cache: npm
 
       - name: Set up Git user
         run: |
@@ -115,7 +124,6 @@ jobs:
           sed -i 's/"name": ".*"/"name": "@netwk-pro\/docs"/' build/package.json
 
       - name: Publish package to GPR
-        working-directory: ./build
         run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GH_PAT }}
