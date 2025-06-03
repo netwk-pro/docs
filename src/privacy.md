@@ -1,7 +1,7 @@
 ---
 date:
   created: 2025-04-18
-  updated: 2025-05-28
+  updated: 2025-06-02
 title: Privacy Policy
 summary: The Privacy Policy established by Network Pro Strategies.
 authors:
@@ -24,7 +24,7 @@ tags:
 # Privacy Policy
 
 **Network Pro Strategies**  
-**Effective Date:** May 28, 2025
+**Effective Date:** June 2, 2025
 
 **Official Version Notice**  
 This document is provided for convenience only. In the event of any discrepancy, the authoritative version is the one published at [https://netwk.pro](https://netwk.pro).
@@ -85,13 +85,13 @@ We configure PostHog to prioritize user privacy. **Analytics tracking is automat
 
 You can view your current tracking status on the [authoritative Privacy Policy page](https://netwk.pro/privacy) or via the [Privacy Dashboard](https://netwk.pro/privacy-dashboard). Additionally, you can set manual opt-out and opt-in settings stored as browser cookies. These settings override any Do Not Track (DNT) or Global Privacy Control (GPC) signals. **If you opt out, analytics tracking via PostHog is disabled entirely until you change your preference.** Your selection will persist until manually updated.
 
-For convenient access, you can manage these settings through our [Privacy Dashboard](https://netwk.pro/privacy-dashboard).
+_For convenient access, you can manage these settings through our [Privacy Dashboard](https://netwk.pro/privacy-dashboard)._
 
 <a name="payment"></a>
 
 ## 4. Payment Information
 
-When processing payments, we may collect credit card details and billing contact information. All credit card data is encrypted via TLS and shared only with PCI-compliant processors. **Data is purged within 90 days post-verification of payment.**
+When processing payments, we may collect credit card details and billing contact information. All credit card data is encrypted via TLS and shared only with PCI-compliant processors.
 
 <sub>[Back to top](#top)</sub>
 
@@ -114,7 +114,7 @@ Information is used to:
 
 We do not sell personal information. However, we may share personal and business information under the following circumstances:
 
-- **With Service Providers:** We may share information with trusted third-party vendors—under binding agreements—who support our business operations. These include, but are not limited to, services such as payment processing, analytics, hosting, and customer support. These providers are authorized to use your information only as necessary to perform their contractual obligations.
+- **With Service Providers:** We may share your information with carefully selected third-party vendors. These providers support essential aspects of our operations—including, but not limited to, payment processing, data analytics, and customer support services. All such partnerships are structured to uphold our core principles of _transparency, self-hosting, and prioritizing user privacy across all infrastructure and data flows_.
 - **Legal Compliance:** We may disclose information if required to do so by applicable law, regulation, legal process, or enforceable governmental request, including subpoenas or court orders.
 - **Business Transfers:** In connection with a merger, acquisition, asset sale, or similar corporate transaction, we may disclose or transfer personal information, provided that reasonable steps are taken to ensure continued confidentiality and compliance with applicable privacy laws.
 
@@ -132,19 +132,19 @@ We implement industry-standard security measures to protect your data. However, 
 
 ## 8. User Rights
 
-<!-- markdownlint-disable MD036 -->
-
 ### Your Rights and Choices
 
-<!-- markdownlint-enable MD036 -->
+_We do not sell your personal information under any circumstances._
 
-Under applicable state and federal law, you may have rights to:
+However, under applicable state, federal, and international privacy laws, you may have the right to:
 
-- **Access, update, or delete** your personal information, subject to legal and contractual limitations.
-- **Restrict or object to processing** under certain conditions, as permitted by law.
-- **Opt out of direct marketing**
+- **Access, correct, or delete your personal information**, subject to legal and contractual limitations;
+- **Restrict or object to the processing of your personal data** in certain circumstances, as permitted by law;
+- **Opt out** of direct marketing communications.
 
-To exercise these rights, please use our [Privacy Rights Request Form](https://netwk.pro/privacy-rights) or email us at `contact (at) s.neteng.pro`.
+Although these rights are specifically granted to residents of California and the European Union under laws such as the [California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa), the California Privacy Rights Act (CPRA), and the [EU General Data Protection Regulation (GDPR)](https://gdpr.eu/what-is-gdpr/), we voluntarily extend these rights to all users, regardless of residency.
+
+To exercise any of these rights, you may submit a request through our [Privacy Rights Request Form](https://netwk.pro/privacy-rights). Alternatively, you can email us at **privacy (at) netwk.pro** with the subject line: "**Privacy Rights Preferences**".
 
 <sub>[Back to top](#top)</sub>
 
@@ -179,16 +179,16 @@ We may update this policy periodically. Changes are effective upon posting.
 For questions, contact:
 
 **Network Pro Strategies**  
-📧 General Inquiries: `support (at) neteng.pro`  
-🔐 Secure Email: `contact (at) s.neteng.pro`  
+📧 General Inquiries: support (at) neteng.pro  
+🔐 Secure Email: contact (at) s.neteng.pro  
 📞 Phone: (623) 252-4350
 
 ---
 
 <span style="font-size: 12px; text-align: center;">
 
-<p>Network Pro&trade;, the shield logo, and the "Locking Down Networks&trade;" slogan are <a href="https://docs.netwk.pro/legal/#trademark" target="_self">trademarks</a> of Network Pro Strategies.</p>
+<p>Network Pro&trade;, the shield logo, and the "Locking Down Networks...&trade;" slogan are <a href="https://docs.netwk.pro/legal/#trademark" target="_self">trademarks</a> of Network Pro Strategies.</p>
 
-<p>Licensed under <a href="https://docs.netwk.pro/legal/#cc-by" target="_self"><strong>CC BY 4.0</strong></a> and the <a href="https://docs.netwk.pro/legal/#gnu-gpl" target="_self"><strong>GNU GPL</strong></a>, as published by the <a rel="noopener noreferrer" href="https://fsf.org" target="_blank">Free Software Foundation</a>, either version 3 of the License, or (at your option) any later version.</p>
+<p>Licensed under <a href="https://docs.netwk.pro/legal/#cc-by" target="_self"><strong>CC BY 4.0</strong></a> and the <a href="https://docs.netwk.pro/legal/#gnu-gpl" target="_self"><strong>GNU GPL</strong></a>, as published by the <a rel="noopener noreferrer" href="https://fsf.org" target="_blank">Free Software Foundation</a>, either version 3 of the License or (at your option) any later version.</p>
 
 </span>

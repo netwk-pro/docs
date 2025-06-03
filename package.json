@@ -1,6 +1,6 @@
 {
   "name": "@networkpro/docs",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "The documentation portal for Network Pro Strategies (Network Pro™)",
   "keywords": [
     "android",
@@ -54,7 +54,6 @@
     "markdownlint": "^0.38.0",
     "markdownlint-cli2": "^0.18.1",
     "postcss": "^8.5.4",
-    "postcss-html": "^1.8.0",
     "prettier": "3.5.3",
     "stylelint": "^16.20.0",
     "stylelint-config-html": "^1.1.0",
