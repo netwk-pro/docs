@@ -15,14 +15,14 @@ theme:
   favicon: /favicon.svg
   palette:
     # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
+    - media: '(prefers-color-scheme)'
       primary: amber
       accent: yellow
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
     # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
+    - media: '(prefers-color-scheme: dark)'
       scheme: slate
       primary: amber
       accent: yellow
@@ -30,7 +30,7 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
     # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
+    - media: '(prefers-color-scheme: light)'
       scheme: default
       primary: amber
       accent: yellow
@@ -85,8 +85,8 @@ extra:
       link: https://netwk.pro/contact
 
 copyright: >
-  Copyright &copy; 2025 Network Pro Strategies (Network Pro&trade;) –
-  <a href="#__consent">Change cookie settings</a>
+  Copyright &copy; 2025 Network Pro Strategies (Network Pro&trade;) – <a
+  href="#__consent">Change cookie settings</a>
 
 plugins:
   - privacy

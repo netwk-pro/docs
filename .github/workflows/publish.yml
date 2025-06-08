@@ -1,5 +1,6 @@
 # .github/workflows/publish.yml
 #
+# Copyright © 2025 Network Pro Strategies (Network Pro™)
 # SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
 # This file is part of Network Pro
 
@@ -7,7 +8,7 @@ name: Publish to Registries
 
 on:
   workflow_run:
-    workflows: ["Build Site and Deploy to GH Pages"]
+    workflows: ['Build Site and Deploy to GH Pages']
     types:
       - completed
 
@@ -19,7 +20,7 @@ permissions:
 
 # Allow one concurrent deployment
 concurrency:
-  group: "build-and-publish"
+  group: 'build-and-publish'
   cancel-in-progress: true
 
 jobs:
@@ -30,6 +31,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -46,7 +49,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.13"
+          python-version: '3.13'
 
       - name: Install MkDocs and plugins
         run: |
@@ -126,4 +129,4 @@ jobs:
       - name: Publish package to GPR
         run: npm publish
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.GH_PAT }}
+          NODE_AUTH_TOKEN: ${{ secrets.NWPRO_GPR }}

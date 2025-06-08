@@ -3,7 +3,9 @@ date:
   created: 2025-04-21
   updated: 2025-05-28
 title: Legal, Copyright, and Licensing
-summary: Legal, copyright, and licensing information for Network Pro's public repositories.
+summary:
+  Legal, copyright, and licensing information for Network Pro's public
+  repositories.
 authors:
   - team
 tags:
@@ -27,7 +29,9 @@ tags:
 **Effective Date:** May 28, 2025
 
 **Official Version Notice**  
-This document is provided for convenience only. In the event of any discrepancy, the authoritative version is the one published at [https://netwk.pro](https://netwk.pro).
+This document is provided for convenience only. In the event of any discrepancy,
+the authoritative version is the one published at
+[https://netwk.pro](https://netwk.pro).
 
 &nbsp;
 
@@ -42,21 +46,26 @@ This document is provided for convenience only. In the event of any discrepancy,
 9. [Third-Party Code and Licenses](#third-party)
 10. [Prohibited Uses](#prohibited-uses)
 11. [Modifications and Liability Disclaimer](#disclaimer)
-12. [Authoritative Version Clause](#version)
-13. [Revisions](#revisions)
-14. [Contact](#contact)
+12. [Support Disclaimer](#support)
+13. [Authoritative Version Clause](#version)
+14. [Revisions](#revisions)
+15. [Contact](#contact)
 
 ---
 
-**Formats Available:** [HTML](https://netwk.pro/license) | <span style="visited">Docs</span>
+**Formats Available:** [HTML](https://netwk.pro/license) |
+<span style="visited">Docs</span>
 
 <a name="ownership"></a>
 
 ## 1. Copyright
 
-All content—including text, software, logos, graphics, documentation, and other materials—provided by **Network Pro Strategies** (“Network Pro”, “Company”, “Licensor”) is protected by U.S. and international copyright laws.
+All content—including text, software, logos, graphics, documentation, and other
+materials—provided by **Network Pro Strategies** (“Network Pro”, “Company”,
+“Licensor”) is protected by U.S. and international copyright laws.
 
-Copyright &copy; 2025 **[Network Pro Strategies](https://netwk.pro)** (Network Pro&trade;)
+Copyright &copy; 2025 **[Network Pro Strategies](https://netwk.pro)** (Network
+Pro&trade;)
 
 <a name="trademark"></a>
 
@@ -69,7 +78,8 @@ The following trademarks are the exclusive property of the Company:
 - **Logo:** The shield logo displayed on our homepage
 - **Slogan:** "Locking Down Networks, Unlocking Confidence&trade;"
 
-Unauthorized use—including use likely to cause confusion, misrepresentation, or disparagement—is strictly prohibited.
+Unauthorized use—including use likely to cause confusion, misrepresentation, or
+disparagement—is strictly prohibited.
 
 <sub>[Back to top](#top)</sub>
 
@@ -77,9 +87,13 @@ Unauthorized use—including use likely to cause confusion, misrepresentation, o
 
 ## 3. Restrictions on Branding and Graphics
 
-Licensing under CC BY 4.0 or the GNU GPL **expressly excludes** any rights to use the Company’s trademarks, trade dress, logos, visual branding, or other proprietary identifiers.
+Licensing under CC BY 4.0 or the GNU GPL **expressly excludes** any rights to
+use the Company’s trademarks, trade dress, logos, visual branding, or other
+proprietary identifiers.
 
-**Such elements are not part of the Licensed Material and remain the exclusive property of the Company.** Any use of these elements—including within derivative works or promotional content—requires the Company’s prior written consent.
+**Such elements are not part of the Licensed Material and remain the exclusive
+property of the Company.** Any use of these elements—including within derivative
+works or promotional content—requires the Company’s prior written consent.
 
 <sub>[Back to top](#top)</sub>
 
@@ -87,9 +101,14 @@ Licensing under CC BY 4.0 or the GNU GPL **expressly excludes** any rights to us
 
 ## 4. Licensed Material Definition
 
-“Licensed Material” refers solely to the publicly available code and documentation distributed through the Company’s open repositories and websites. It expressly excludes all third-party content, proprietary brand assets (including logos, trademarks, and visual designs), and any internal or commercial backend systems.
+“Licensed Material” refers solely to the publicly available code and
+documentation distributed through the Company’s open repositories and websites.
+It expressly excludes all third-party content, proprietary brand assets
+(including logos, trademarks, and visual designs), and any internal or
+commercial backend systems.
 
-For clarity, the Company itself is not licensed under, nor subject to, the terms of the open-source or content licenses described in this document.
+For clarity, the Company itself is not licensed under, nor subject to, the terms
+of the open-source or content licenses described in this document.
 
 <sub>[Back to top](#top)</sub>
 
@@ -106,9 +125,12 @@ This work is dual-licensed under:
 
 ## 6. Dual Licensing Notes
 
-- You may choose to use the work under either license, or both where appropriate.
-- See Creative Commons FAQ: [Separate agreements](https://creativecommons.org/faq/#can-i-enter-into-separate-or-supplemental-agreements-with-users-of-my-work)
-- See GPL compatibility: [GPL FAQ](https://www.gnu.org/licenses/gpl-faq.html#WhatDoesCompatMean)
+- You may choose to use the work under either license, or both where
+  appropriate.
+- See Creative Commons FAQ:
+  [Separate agreements](https://creativecommons.org/faq/#can-i-enter-into-separate-or-supplemental-agreements-with-users-of-my-work)
+- See GPL compatibility:
+  [GPL FAQ](https://www.gnu.org/licenses/gpl-faq.html#WhatDoesCompatMean)
 
 <sub>[Back to top](#top)</sub>
 
@@ -116,16 +138,24 @@ This work is dual-licensed under:
 
 ## 7. Creative Commons License (CC BY 4.0)
 
-<sup>Download: [HTML](https://netwk.pro/assets/license/CC-BY-4.0.html) | [Markdown](https://netwk.pro/assets/license/CC-BY-4.0.md) | [Text](https://netwk.pro/assets/license/CC-BY-4.0.txt) | [RDFa](https://netwk.pro/assets/license/CC-BY-4.0-rdfa.xml) | [XMP](https://netwk.pro/assets/license/CC-BY-4.0.xml)</sup>
+<sup>Download: [HTML](https://netwk.pro/assets/license/CC-BY-4.0.html) |
+[Markdown](https://netwk.pro/assets/license/CC-BY-4.0.md) |
+[Text](https://netwk.pro/assets/license/CC-BY-4.0.txt) |
+[RDFa](https://netwk.pro/assets/license/CC-BY-4.0-rdfa.xml) |
+[XMP](https://netwk.pro/assets/license/CC-BY-4.0.xml)</sup>
 
 Network Pro&trade; (the "Licensed Material") is licensed under **Creative
 Commons Attribution 4.0 International** (CC BY 4.0)
 [<img decoding="async" loading="lazy" style="display: inline-block; height: 18px !important; margin-left: 3px; vertical-align: text-bottom; text-decoration: none;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="Creative Commons BY" />](https://creativecommons.org/licenses/by/4.0/)
 [<img decoding="async" loading="lazy" style="display: inline-block; height: 18px !important; margin-left: 3px; vertical-align: text-bottom; text-decoration: none;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="Creative Commons BY" />](https://creativecommons.org/licenses/by/4.0/).
 
-Per the terms of the License, you are free to distribute, remix, adapt, and build upon the Licensed Material for any purpose, even commercially. You must give appropriate credit, provide a link to the License, and indicate if changes were made.
+Per the terms of the License, you are free to distribute, remix, adapt, and
+build upon the Licensed Material for any purpose, even commercially. You must
+give appropriate credit, provide a link to the License, and indicate if changes
+were made.
 
-Permissions beyond the scope of this License—or instead of those permitted by this License—may be available as further defined within this document.
+Permissions beyond the scope of this License—or instead of those permitted by
+this License—may be available as further defined within this document.
 
 <code style="background: none; border: none; border-radius: 0; height: 50vh; outline: none; resize: none; width: 100%;">
 
@@ -142,11 +172,20 @@ Permissions beyond the scope of this License—or instead of those permitted by 
 
 ## 8. GNU General Public License (GPL)
 
-<sup>Download: [HTML](https://netwk.pro/assets/license/COPYING.html) | [Markdown](https://netwk.pro/assets/license/COPYING.md) | [Text](https://netwk.pro/assets/license/COPYING.txt) | [RDFa](https://netwk.pro/assets/license/COPYING-rdfa.xml) | [ODT](https://netwk.pro/assets/license/COPYING.odt)</sup>
+<sup>Download: [HTML](https://netwk.pro/assets/license/COPYING.html) |
+[Markdown](https://netwk.pro/assets/license/COPYING.md) |
+[Text](https://netwk.pro/assets/license/COPYING.txt) |
+[RDFa](https://netwk.pro/assets/license/COPYING-rdfa.xml) |
+[ODT](https://netwk.pro/assets/license/COPYING.odt)</sup>
 
-Network Pro&trade; is free software: you can redistribute it and/or modify it under the terms of the **GNU General Public License** (GNU GPL) as published by the [Free Software Foundation](https://www.fsf.org/), either version 3 of the License, or (at your option) any later version.
+Network Pro&trade; is free software: you can redistribute it and/or modify it
+under the terms of the **GNU General Public License** (GNU GPL) as published by
+the [Free Software Foundation](https://www.fsf.org/), either version 3 of the
+License, or (at your option) any later version.
 
-You should have received a copy of the GNU General Public License along with this material. If not, see <[https://www.gnu.org/licenses/](https://www.gnu.org/licenses/)>.
+You should have received a copy of the GNU General Public License along with
+this material. If not, see
+<[https://www.gnu.org/licenses/](https://www.gnu.org/licenses/)>.
 
 <code style="background: none; border: none; border-radius: 0; height: 50vh; outline: none; resize: none; width: 100%;">
 
@@ -163,11 +202,16 @@ You should have received a copy of the GNU General Public License along with thi
 
 ## 9. Third-Party Code and Licenses
 
-Some components of the Licensed Material may include or interface with third-party libraries, frameworks, or assets. **Each third-party component is governed solely by its own license terms** and is expressly excluded from the scope of this document.
+Some components of the Licensed Material may include or interface with
+third-party libraries, frameworks, or assets. **Each third-party component is
+governed solely by its own license terms** and is expressly excluded from the
+scope of this document.
 
-The inclusion, reference, or linking of any third-party content **does not constitute endorsement, approval, or warranty** by the Company.
+The inclusion, reference, or linking of any third-party content **does not
+constitute endorsement, approval, or warranty** by the Company.
 
-**It is the user's responsibility** to review, understand, and comply with all applicable third-party licenses before use, modification, or distribution.
+**It is the user's responsibility** to review, understand, and comply with all
+applicable third-party licenses before use, modification, or distribution.
 
 <sub>[Back to top](#top)</sub>
 
@@ -175,12 +219,18 @@ The inclusion, reference, or linking of any third-party content **does not const
 
 ## 10. Prohibited Uses
 
-**The following activities are strictly prohibited and may constitute infringement or unfair competition under applicable law, unless explicitly authorized in writing by the Company:**
+**The following activities are strictly prohibited and may constitute
+infringement or unfair competition under applicable law, unless explicitly
+authorized in writing by the Company:**
 
-- Use of any Company trademarks, logos, domain names, slogans, or other brand identifiers
-- Any representation—explicit or implied—that suggests endorsement, affiliation, or partnership with the Company
-- Misuse, unauthorized use, or misrepresentation of the Company’s intellectual property
-- Incorporation of any Company branding or protected identifiers into derivative works, forks, distributions, or promotional materials
+- Use of any Company trademarks, logos, domain names, slogans, or other brand
+  identifiers
+- Any representation—explicit or implied—that suggests endorsement, affiliation,
+  or partnership with the Company
+- Misuse, unauthorized use, or misrepresentation of the Company’s intellectual
+  property
+- Incorporation of any Company branding or protected identifiers into derivative
+  works, forks, distributions, or promotional materials
 
 <sub>[Back to top](#top)</sub>
 
@@ -188,37 +238,74 @@ The inclusion, reference, or linking of any third-party content **does not const
 
 ## 11. Modifications and Liability Disclaimer
 
-Modifications, redistribution, or any use of the Licensed Material are performed entirely at your own risk.
+Modifications, redistribution, or any use of the Licensed Material are performed
+entirely at your own risk.
 
-> THE LICENSED MATERIAL IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COMPANY DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ACCURACY.
+> THE LICENSED MATERIAL IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT ANY
+> EXPRESS OR IMPLIED WARRANTIES. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE
+> COMPANY DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO IMPLIED
+> WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+> NON-INFRINGEMENT, AND ACCURACY.
 
-**The Company shall not be liable for any direct, indirect, incidental, consequential, special, exemplary, or punitive damages arising from or related to the use, reproduction, modification, or distribution of the Licensed Material**—including, without limitation, any claims or disputes brought by third parties, whether in contract, tort, or otherwise.
+**The Company shall not be liable for any direct, indirect, incidental,
+consequential, special, exemplary, or punitive damages arising from or related
+to the use, reproduction, modification, or distribution of the Licensed
+Material**—including, without limitation, any claims or disputes brought by
+third parties, whether in contract, tort, or otherwise.
+
+<sub>[Back to top](#top)</sub>
+
+<a name="support"></a>
+
+## 12. Support Disclaimer
+
+All support provided—whether through email, GitHub, community forums, or other
+channels—is offered “as-is” and **does not constitute any warranty, express or
+implied**. The Company, its affiliates, owners, operators, and contributors make
+no guarantees regarding response time, resolution, availability, or fitness for
+any particular purpose.
+
+Bug fixes, security patches, or other support actions—whether provided
+voluntarily or in response to reported issues—do not imply any ongoing
+obligation, representation of completeness, or the creation of a warranty. All
+assistance is provided at the sole discretion of the Company and may be
+modified, reduced, or discontinued at any time without notice.
 
 <sub>[Back to top](#top)</sub>
 
 <a name="version"></a>
 
-## 12. Authoritative Version Clause
+## 13. Authoritative Version Clause
 
-In the event of any discrepancy between different versions, formats, or distributions of any legal document issued by the Company&mdash;including but not limited to license terms, policies, notices, or agreements&mdash;the version published on the Company's primary website at [https://netwk.pro](https://netwk.pro) shall be deemed the official and controlling version.
+In the event of any discrepancy between different versions, formats, or
+distributions of any legal document issued by the Company&mdash;including but
+not limited to license terms, policies, notices, or agreements&mdash;the version
+published on the Company's primary website at
+[https://netwk.pro](https://netwk.pro) shall be deemed the official and
+controlling version.
 
-It is your responsibility to review the most current version of any applicable legal document before relying on its contents. Continued use of the Company's materials, services, or Licensed Material constitutes acceptance of the most current version then in effect.
+It is your responsibility to review the most current version of any applicable
+legal document before relying on its contents. Continued use of the Company's
+materials, services, or Licensed Material constitutes acceptance of the most
+current version then in effect.
 
 <sub>[Back to top](#top)</sub>
 
 <a name="revisions"></a>
 
-## 13. Revisions
+## 14. Revisions
 
-This legal page may be updated to comply with legal or operational changes. The current effective date is listed at the top of this document.
+This legal page may be updated to comply with legal or operational changes. The
+current effective date is listed at the top of this document.
 
 <sub>[Back to top](#top)</sub>
 
 <a name="contact"></a>
 
-## 14. Contact
+## 15. Contact
 
-The Company may be contacted via our [Contact Form](https://netwk.pro/contact) or by email at:  
+The Company may be contacted via our [Contact Form](https://netwk.pro/contact)
+or by email at:  
 📧 `support (at) neteng.pro`
 
 <sub>[Back to top](#top)</sub>

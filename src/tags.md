@@ -7,6 +7,7 @@ title: Tag Index
 
 # Tags
 
-This page lists all of the tags used in the documentation. Click on a tag to see all the related pages.
+This page lists all of the tags used in the documentation. Click on a tag to see
+all the related pages.
 
 <!-- material/tags -->

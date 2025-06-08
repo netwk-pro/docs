@@ -27,7 +27,9 @@ tags:
 **Effective Date:** June 2, 2025
 
 **Official Version Notice**  
-This document is provided for convenience only. In the event of any discrepancy, the authoritative version is the one published at [https://netwk.pro](https://netwk.pro).
+This document is provided for convenience only. In the event of any discrepancy,
+the authoritative version is the one published at
+[https://netwk.pro](https://netwk.pro).
 
 &nbsp;
 
@@ -46,13 +48,20 @@ This document is provided for convenience only. In the event of any discrepancy,
 
 ---
 
-**Formats Available:** [HTML](https://netwk.pro/privacy) | <span style="visited">Docs</span>
+**Formats Available:** [HTML](https://netwk.pro/privacy) |
+<span style="visited">Docs</span>
 
 <a name="intro"></a>
 
 ## 1. Introduction
 
-Network Pro Strategies ("Company," "we," "us," or "our") is committed to protecting the privacy of clients and website visitors. This Privacy Policy outlines how we collect, use, and safeguard your information when you interact with our website or services, consistent with applicable U.S. federal law and Arizona law, including Title 18, Chapter 5, Article 4 of the **[Arizona Revised Statutes](https://www.azleg.gov/arstitle/) (A.R.S. §§ 18-551, 18-552)**.
+Network Pro Strategies ("Company," "we," "us," or "our") is committed to
+protecting the privacy of clients and website visitors. This Privacy Policy
+outlines how we collect, use, and safeguard your information when you interact
+with our website or services, consistent with applicable U.S. federal law and
+Arizona law, including Title 18, Chapter 5, Article 4 of the
+**[Arizona Revised Statutes](https://www.azleg.gov/arstitle/) (A.R.S. §§ 18-551,
+18-552)**.
 
 <a name="collect"></a>
 
@@ -71,7 +80,10 @@ We may collect the following categories of information:
 
 ## 3. Web Analytics and Tracking
 
-To better understand visitor behavior and optimize website functionality, we use **PostHog Cloud**, a hosted version of the open-source PostHog analytics platform. This tool helps us evaluate site performance and user engagement through the collection of non-personally identifiable technical data.
+To better understand visitor behavior and optimize website functionality, we use
+**PostHog Cloud**, a hosted version of the open-source PostHog analytics
+platform. This tool helps us evaluate site performance and user engagement
+through the collection of non-personally identifiable technical data.
 
 PostHog Cloud may collect and process information such as:
 
@@ -81,17 +93,30 @@ PostHog Cloud may collect and process information such as:
 - Referral URLs and outbound link activity
 - General geolocation (approximate, based on IP address)
 
-We configure PostHog to prioritize user privacy. **Analytics tracking is automatically disabled when a user's browser sends a “Do Not Track” (DNT) or [“Global Privacy Control” (GPC / Sec-GPC)](https://globalprivacycontrol.org/) signal**. No further action is required—your browser settings are honored by default.
+We configure PostHog to prioritize user privacy. **Analytics tracking is
+automatically disabled when a user's browser sends a “Do Not Track” (DNT) or
+[“Global Privacy Control” (GPC / Sec-GPC)](https://globalprivacycontrol.org/)
+signal**. No further action is required—your browser settings are honored by
+default.
 
-You can view your current tracking status on the [authoritative Privacy Policy page](https://netwk.pro/privacy) or via the [Privacy Dashboard](https://netwk.pro/privacy-dashboard). Additionally, you can set manual opt-out and opt-in settings stored as browser cookies. These settings override any Do Not Track (DNT) or Global Privacy Control (GPC) signals. **If you opt out, analytics tracking via PostHog is disabled entirely until you change your preference.** Your selection will persist until manually updated.
+You can view your current tracking status on the
+[authoritative Privacy Policy page](https://netwk.pro/privacy) or via the
+[Privacy Dashboard](https://netwk.pro/privacy-dashboard). Additionally, you can
+set manual opt-out and opt-in settings stored as browser cookies. These settings
+override any Do Not Track (DNT) or Global Privacy Control (GPC) signals. **If
+you opt out, analytics tracking via PostHog is disabled entirely until you
+change your preference.** Your selection will persist until manually updated.
 
-_For convenient access, you can manage these settings through our [Privacy Dashboard](https://netwk.pro/privacy-dashboard)._
+_For convenient access, you can manage these settings through our
+[Privacy Dashboard](https://netwk.pro/privacy-dashboard)._
 
 <a name="payment"></a>
 
 ## 4. Payment Information
 
-When processing payments, we may collect credit card details and billing contact information. All credit card data is encrypted via TLS and shared only with PCI-compliant processors.
+When processing payments, we may collect credit card details and billing contact
+information. All credit card data is encrypted via TLS and shared only with
+PCI-compliant processors.
 
 <sub>[Back to top](#top)</sub>
 
@@ -112,11 +137,22 @@ Information is used to:
 
 ## 6. Data Sharing
 
-We do not sell personal information. However, we may share personal and business information under the following circumstances:
+We do not sell personal information. However, we may share personal and business
+information under the following circumstances:
 
-- **With Service Providers:** We may share your information with carefully selected third-party vendors. These providers support essential aspects of our operations—including, but not limited to, payment processing, data analytics, and customer support services. All such partnerships are structured to uphold our core principles of _transparency, self-hosting, and prioritizing user privacy across all infrastructure and data flows_.
-- **Legal Compliance:** We may disclose information if required to do so by applicable law, regulation, legal process, or enforceable governmental request, including subpoenas or court orders.
-- **Business Transfers:** In connection with a merger, acquisition, asset sale, or similar corporate transaction, we may disclose or transfer personal information, provided that reasonable steps are taken to ensure continued confidentiality and compliance with applicable privacy laws.
+- **With Service Providers:** We may share your information with carefully
+  selected third-party vendors. These providers support essential aspects of our
+  operations—including, but not limited to, payment processing, data analytics,
+  and customer support services. All such partnerships are structured to uphold
+  our core principles of _transparency, self-hosting, and prioritizing user
+  privacy across all infrastructure and data flows_.
+- **Legal Compliance:** We may disclose information if required to do so by
+  applicable law, regulation, legal process, or enforceable governmental
+  request, including subpoenas or court orders.
+- **Business Transfers:** In connection with a merger, acquisition, asset sale,
+  or similar corporate transaction, we may disclose or transfer personal
+  information, provided that reasonable steps are taken to ensure continued
+  confidentiality and compliance with applicable privacy laws.
 
 <sub>[Back to top](#top)</sub>
 
@@ -124,7 +160,11 @@ We do not sell personal information. However, we may share personal and business
 
 ## 7. Data Security
 
-We implement industry-standard security measures to protect your data. However, no method of transmission over the Internet or electronic storage is completely secure, and we cannot guarantee absolute security. In compliance with **A.R.S. § 18-552**, we will notify affected individuals in the event of a data breach involving personal information.
+We implement industry-standard security measures to protect your data. However,
+no method of transmission over the Internet or electronic storage is completely
+secure, and we cannot guarantee absolute security. In compliance with **A.R.S. §
+18-552**, we will notify affected individuals in the event of a data breach
+involving personal information.
 
 <sub>[Back to top](#top)</sub>
 
@@ -136,15 +176,26 @@ We implement industry-standard security measures to protect your data. However, 
 
 _We do not sell your personal information under any circumstances._
 
-However, under applicable state, federal, and international privacy laws, you may have the right to:
+However, under applicable state, federal, and international privacy laws, you
+may have the right to:
 
-- **Access, correct, or delete your personal information**, subject to legal and contractual limitations;
-- **Restrict or object to the processing of your personal data** in certain circumstances, as permitted by law;
+- **Access, correct, or delete your personal information**, subject to legal and
+  contractual limitations;
+- **Restrict or object to the processing of your personal data** in certain
+  circumstances, as permitted by law;
 - **Opt out** of direct marketing communications.
 
-Although these rights are specifically granted to residents of California and the European Union under laws such as the [California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa), the California Privacy Rights Act (CPRA), and the [EU General Data Protection Regulation (GDPR)](https://gdpr.eu/what-is-gdpr/), we voluntarily extend these rights to all users, regardless of residency.
+Although these rights are specifically granted to residents of California and
+the European Union under laws such as the
+[California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa), the
+California Privacy Rights Act (CPRA), and the
+[EU General Data Protection Regulation (GDPR)](https://gdpr.eu/what-is-gdpr/),
+we voluntarily extend these rights to all users, regardless of residency.
 
-To exercise any of these rights, you may submit a request through our [Privacy Rights Request Form](https://netwk.pro/privacy-rights). Alternatively, you can email us at **privacy (at) netwk.pro** with the subject line: "**Privacy Rights Preferences**".
+To exercise any of these rights, you may submit a request through our
+[Privacy Rights Request Form](https://netwk.pro/privacy-rights). Alternatively,
+you can email us at **privacy (at) netwk.pro** with the subject line: "**Privacy
+Rights Preferences**".
 
 <sub>[Back to top](#top)</sub>
 
@@ -152,7 +203,8 @@ To exercise any of these rights, you may submit a request through our [Privacy R
 
 ## 9. Third-Party Links
 
-Our site may contain links to third-party sites. We are not responsible for their privacy practices.
+Our site may contain links to third-party sites. We are not responsible for
+their privacy practices.
 
 <sub>[Back to top](#top)</sub>
 
@@ -160,7 +212,10 @@ Our site may contain links to third-party sites. We are not responsible for thei
 
 ## 10. Disclaimers and Limitations
 
-Network Pro Strategies offers informational content as a public service. No warranties are made regarding the accuracy or completeness of such content. Consulting services are governed by separate contracts. We disclaim liability for third-party services integrated or referenced.
+Network Pro Strategies offers informational content as a public service. No
+warranties are made regarding the accuracy or completeness of such content.
+Consulting services are governed by separate contracts. We disclaim liability
+for third-party services integrated or referenced.
 
 <sub>[Back to top](#top)</sub>
 

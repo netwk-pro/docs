@@ -26,7 +26,9 @@ tags:
 **Effective Date:** May 21, 2025
 
 **Official Version Notice**  
-This document is provided for convenience only. In the event of any discrepancy, the authoritative version is the one published at [https://netwk.pro](https://netwk.pro).
+This document is provided for convenience only. In the event of any discrepancy,
+the authoritative version is the one published at
+[https://netwk.pro](https://netwk.pro).
 
 &nbsp;
 
@@ -41,17 +43,24 @@ This document is provided for convenience only. In the event of any discrepancy,
 9. [Acceptance of Terms](#9-acceptance-of-terms)
 10. [Changes to This Policy](#10-changes-to-this-policy)
 
-> _These Terms of Use specifically govern the use of services and platforms made available via this website and its associated web properties. For provisions governing our consulting and implementation services, please refer to the applicable [Terms and Conditions](https://netwk.pro/terms-conditions)._
+> _These Terms of Use specifically govern the use of services and platforms made
+> available via this website and its associated web properties. For provisions
+> governing our consulting and implementation services, please refer to the
+> applicable [Terms and Conditions](https://netwk.pro/terms-conditions)._
 
 ---
 
-**Formats Available:** [HTML](https://netwk.pro/terms-of-use) | <span class="visited">Docs</span>
+**Formats Available:** [HTML](https://netwk.pro/terms-of-use) |
+<span class="visited">Docs</span>
 
 <a name="#1-introduction"></a>
 
 ## 1. Introduction
 
-Welcome! By accessing or using any of the platforms operated by Network Pro Strategies ("Company," "we," "us," or "our"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, please refrain from using our services.
+Welcome! By accessing or using any of the platforms operated by Network Pro
+Strategies ("Company," "we," "us," or "our"), you agree to be bound by these
+Terms of Use ("Terms"). If you do not agree to these Terms, please refrain from
+using our services.
 
 <sub>[Back to top](#top)</sub>
 
@@ -59,7 +68,11 @@ Welcome! By accessing or using any of the platforms operated by Network Pro Stra
 
 ## 2. Platforms Covered
 
-These Terms of Use apply to all platforms associated with the Company, including but not limited to: **GitHub, our main website (hosted via Netlify and GitHub Pages), Stack Overflow Teams, Nextcloud, communications on Discord and/or Slack, and our social media presence (e.g., Facebook, Instagram, X, and similar platforms)**.
+These Terms of Use apply to all platforms associated with the Company, including
+but not limited to: **GitHub, our main website (hosted via Netlify and GitHub
+Pages), Stack Overflow Teams, Nextcloud, communications on Discord and/or Slack,
+and our social media presence (e.g., Facebook, Instagram, X, and similar
+platforms)**.
 
 <sub>[Back to top](#top)</sub>
 
@@ -67,7 +80,9 @@ These Terms of Use apply to all platforms associated with the Company, including
 
 ## 3. Acceptable Use
 
-You agree not to use our platforms or services to engage in conduct that is **unlawful, abusive, threatening, harassing, defamatory, deceptive, or otherwise objectionable**. Prohibited activities include but are not limited to:
+You agree not to use our platforms or services to engage in conduct that is
+**unlawful, abusive, threatening, harassing, defamatory, deceptive, or otherwise
+objectionable**. Prohibited activities include but are not limited to:
 
 - Unauthorized access or tampering with systems
 - Impersonation or misrepresentation
@@ -81,7 +96,11 @@ You agree not to use our platforms or services to engage in conduct that is **un
 
 ## 4. Disclaimer of Warranties
 
-Our platforms and services are provided "as is" and "as available," without any express or implied warranties. We make no guarantees regarding their accuracy, reliability, availability, or security. This disclaimer does not apply to our consulting and implementation services, nor any payment portals or associated services.
+Our platforms and services are provided "as is" and "as available," without any
+express or implied warranties. We make no guarantees regarding their accuracy,
+reliability, availability, or security. This disclaimer does not apply to our
+consulting and implementation services, nor any payment portals or associated
+services.
 
 <sub>[Back to top](#top)</sub>
 
@@ -89,7 +108,10 @@ Our platforms and services are provided "as is" and "as available," without any 
 
 ## 5. Assumption of Risk
 
-Your use of our platforms is at your own risk. We do not guarantee the security, integrity, or reliability of data stored on external or third-party infrastructure. This disclaimer does not apply to our consulting and implementation services, nor any payment portals or associated services.
+Your use of our platforms is at your own risk. We do not guarantee the security,
+integrity, or reliability of data stored on external or third-party
+infrastructure. This disclaimer does not apply to our consulting and
+implementation services, nor any payment portals or associated services.
 
 <sub>[Back to top](#top)</sub>
 
@@ -97,7 +119,11 @@ Your use of our platforms is at your own risk. We do not guarantee the security,
 
 ## 6. Limitation of Liability
 
-To the fullest extent permitted by law, the Company, its affiliates, owners, operators, and contributors shall not be liable for any direct, indirect, incidental, consequential, or punitive damages, including but not limited to data loss, loss of profits, or damages arising from reliance on or use of our platforms.
+To the fullest extent permitted by law, the Company, its affiliates, owners,
+operators, and contributors shall not be liable for any direct, indirect,
+incidental, consequential, or punitive damages, including but not limited to
+data loss, loss of profits, or damages arising from reliance on or use of our
+platforms.
 
 <sub>[Back to top](#top)</sub>
 
@@ -105,7 +131,10 @@ To the fullest extent permitted by law, the Company, its affiliates, owners, ope
 
 ## 7. Indemnification
 
-You agree to indemnify, defend, and hold harmless the Company, its affiliates, owners, operators, and contributors from any claims, damages, liabilities, losses, or expenses (including legal fees) arising from or related to your use of our services.
+You agree to indemnify, defend, and hold harmless the Company, its affiliates,
+owners, operators, and contributors from any claims, damages, liabilities,
+losses, or expenses (including legal fees) arising from or related to your use
+of our services.
 
 <sub>[Back to top](#top)</sub>
 
@@ -113,7 +142,11 @@ You agree to indemnify, defend, and hold harmless the Company, its affiliates, o
 
 ## 8. Governing Law and Jurisdiction
 
-Network Pro Strategies is based in Maricopa County, Arizona. Any legal action or dispute arising from these Terms of Use shall be subject to the exclusive jurisdiction of the state and federal courts located in Maricopa County, Arizona. These Terms shall be governed by the **Arizona Revised Statutes (A.R.S.)** and applicable provisions of the **United States Code (U.S.C.)**.
+Network Pro Strategies is based in Maricopa County, Arizona. Any legal action or
+dispute arising from these Terms of Use shall be subject to the exclusive
+jurisdiction of the state and federal courts located in Maricopa County,
+Arizona. These Terms shall be governed by the **Arizona Revised Statutes
+(A.R.S.)** and applicable provisions of the **United States Code (U.S.C.)**.
 
 <sub>[Back to top](#top)</sub>
 
@@ -121,7 +154,9 @@ Network Pro Strategies is based in Maricopa County, Arizona. Any legal action or
 
 ## 9. Acceptance of Terms
 
-By accessing or using our platforms, you acknowledge and agree to these Terms of Use. Continued use of our services constitutes ongoing acceptance of these Terms.
+By accessing or using our platforms, you acknowledge and agree to these Terms of
+Use. Continued use of our services constitutes ongoing acceptance of these
+Terms.
 
 <sub>[Back to top](#top)</sub>
 
@@ -129,7 +164,9 @@ By accessing or using our platforms, you acknowledge and agree to these Terms of
 
 ## 10. Changes to This Policy
 
-We may update these Terms of Use periodically. Updates will be posted on this page with an updated effective date and will reflect any relevant changes in applicable law.
+We may update these Terms of Use periodically. Updates will be posted on this
+page with an updated effective date and will reflect any relevant changes in
+applicable law.
 
 <sub>[Back to top](#top)</sub>
 
@@ -137,7 +174,10 @@ We may update these Terms of Use periodically. Updates will be posted on this pa
 
 <a name="moredetails"></a>
 
-> **Note:** For more details regarding our privacy practices, refer to our [Privacy Policy](https://docs.netwk.pro/privacy). For licensing terms and content usage rights, please visit our [Legal, Copyright, and Licensing](https://docs.netwk.pro/legal) page.
+> **Note:** For more details regarding our privacy practices, refer to our
+> [Privacy Policy](https://docs.netwk.pro/privacy). For licensing terms and
+> content usage rights, please visit our
+> [Legal, Copyright, and Licensing](https://docs.netwk.pro/legal) page.
 
 ---
 
