@@ -26,7 +26,7 @@ tags:
 # Legal, Copyright, and Licensing
 
 **Network Pro Strategies**  
-**Effective Date:** May 28, 2025
+**Effective Date:** June 3, 2025
 
 **Official Version Notice**  
 This document is provided for convenience only. In the event of any discrepancy,
