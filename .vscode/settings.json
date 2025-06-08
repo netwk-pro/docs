@@ -32,6 +32,7 @@
   ],
   // Locations of CSS files for validation
   "css.styleSheets": ["**/*.css"],
+  "markdown.validate.enabled": false,
   "markdown.validate.ignoredLinks": [
     "#ownership",
     "#trademark",

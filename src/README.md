@@ -3,7 +3,9 @@ date:
   created: 2025-01-01
   updated: 2025-06-01
 title: About Network Pro&trade;
-summary: Learn more about Network Pro Strategies (Network Pro&trade;) and the services we offer.
+summary:
+  Learn more about Network Pro Strategies (Network Pro&trade;) and the services
+  we offer.
 authors:
   - team
 tags:
@@ -22,17 +24,28 @@ tags:
 
 </section>
 
-[![npmjs](https://img.shields.io/badge/npmjs-white?style=flat&logo=npm&logoColor=%23CB3837&labelColor=white&color=grey&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40networkpro%2Fweb)](https://www.npmjs.com/package/@networkpro/web) &nbsp; [![GitHub Package Registry](https://img.shields.io/badge/GitHub_Package_Registry-white?style=flat&logo=github&logoColor=%23181717&labelColor=white&color=grey&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40networkpro%2Fweb)](https://github.com/netwk-pro/netwk-pro.github.io/pkgs/npm/web)
+[![npmjs](https://img.shields.io/badge/npmjs-white?style=flat&logo=npm&logoColor=%23CB3837&labelColor=white&color=grey&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40networkpro%2Fweb)](https://www.npmjs.com/package/@networkpro/web)
+&nbsp;
+[![GitHub Package Registry](https://img.shields.io/badge/GitHub_Package_Registry-white?style=flat&logo=github&logoColor=%23181717&labelColor=white&color=grey&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40networkpro%2Fweb)](https://github.com/netwk-pro/netwk-pro.github.io/pkgs/npm/web)
 
 ## Security That Respects You
 
-At **Network Pro Strategies (Network Pro&trade;)**, we deliver network security, cybersecurity, and digital privacy consulting with clarity, credibility, and care. We believe that real security doesn’t have to come at the cost of user autonomy, and that privacy-minded solutions can be both practical and powerful.
+At **Network Pro Strategies (Network Pro&trade;)**, we deliver network security,
+cybersecurity, and digital privacy consulting with clarity, credibility, and
+care. We believe that real security doesn’t have to come at the cost of user
+autonomy, and that privacy-minded solutions can be both practical and powerful.
 
-Our approach is built on a simple principle: **the best security is the one that fits.** That means we don’t push ideologies—we apply what works. We advocate for and implement **free and open source solutions** where they offer competitive functionality, control, and visibility. When proprietary platforms are better suited, we deploy them responsibly and securely—ensuring every recommendation is grounded in **technical merit**, **scalability**, and **client goals**.
+Our approach is built on a simple principle: **the best security is the one that
+fits.** That means we don’t push ideologies—we apply what works. We advocate for
+and implement **free and open source solutions** where they offer competitive
+functionality, control, and visibility. When proprietary platforms are better
+suited, we deploy them responsibly and securely—ensuring every recommendation is
+grounded in **technical merit**, **scalability**, and **client goals**.
 
 ### **What We Do**
 
-As a remote-first consultancy, we support clients across industries and geographies with a focus on:
+As a remote-first consultancy, we support clients across industries and
+geographies with a focus on:
 
 - **Network Hardening & Perimeter Defense**
 - **Firewall Architecture & Policy Optimization**
@@ -40,19 +53,28 @@ As a remote-first consultancy, we support clients across industries and geograph
 - **Secure Infrastructure Design & Implementation**
 - **Risk Reduction & Security Posture Assessment**
 
-Our consulting engagements range from tactical one-off solutions to strategic, long-term partnerships. Whether it’s helping a business segment its internal network, lock down its cloud footprint, or plan scalable defenses—we deliver clear value, with zero fluff.
+Our consulting engagements range from tactical one-off solutions to strategic,
+long-term partnerships. Whether it’s helping a business segment its internal
+network, lock down its cloud footprint, or plan scalable defenses—we deliver
+clear value, with zero fluff.
 
-We also believe education is a core pillar of real-world security. That’s why we invest in raising awareness—across both technical and general audiences—on best practices in digital privacy, secure design, and threat mitigation.
+We also believe education is a core pillar of real-world security. That’s why we
+invest in raising awareness—across both technical and general audiences—on best
+practices in digital privacy, secure design, and threat mitigation.
 
-**Network Pro&trade; exists to bring strong, thoughtful security to organizations that value integrity—without sacrificing agility or trust.** We don’t just secure infrastructure. We secure confidence.
+**Network Pro&trade; exists to bring strong, thoughtful security to
+organizations that value integrity—without sacrificing agility or trust.** We
+don’t just secure infrastructure. We secure confidence.
 
 &nbsp;
 
-🔹 [Let’s connect](https://netwk.pro/contact) to discuss how we can help secure and strengthen your business today.
+🔹 [Let’s connect](https://netwk.pro/contact) to discuss how we can help secure
+and strengthen your business today.
 
 ---
 
-You can find our PGP keys and a vCard containing our contact information for your convenience below.
+You can find our PGP keys and a vCard containing our contact information for
+your convenience below.
 
 |                                                                                                                                                                                      <img decoding="async" loading="lazy" src="https://netwk.pro/img/qr/pgp-support.png" height="150px" width="150px" alt="PGP Key - support@neteng.pro"> | **[support@neteng.pro](https://keys.openpgp.org/search?q=support%40neteng.pro)**<br />**PGP Key (ed25519)**<br />&nbsp;<br /><a href="https://netwk.pro/assets/bin/support@neteng.pro.asc" type="application/pgp-keys" download target="_blank">**asc**</a><br />&nbsp;<br />**6590B992E2E3EFF12738**<br />**7BCE2AF093E9DEC61BA0** |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
