@@ -37,10 +37,14 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: lts/*
-          check-latest: true
+          node-version: 24
           cache: npm
           cache-dependency-path: package-lock.json
+
+      - name: Upgrade npm
+        run: |
+          corepack enable
+          npm install -g npm@11.4.2
 
       - name: Install Node.js dependencies
         run: npm ci
@@ -51,9 +55,8 @@ jobs:
         with:
           python-version: '3.13'
 
-      - name: Install MkDocs and plugins
-        run: |
-          pip install mkdocs mkdocs-material mkdocs-material-extensions mkdocs-get-deps
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
 
       - name: Build MkDocs documentation
         run: mkdocs build
@@ -83,10 +86,14 @@ jobs:
       - name: Set up Node.js for npmjs
         uses: actions/setup-node@v4
         with:
-          node-version: lts/*
-          check-latest: true
+          node-version: 24
           registry-url: https://registry.npmjs.org/
           cache: npm
+
+      - name: Upgrade npm
+        run: |
+          corepack enable
+          npm install -g npm@11.4.2
 
       - name: Set up Git user
         run: |
@@ -112,10 +119,14 @@ jobs:
       - name: Set up Node.js for GPR
         uses: actions/setup-node@v4
         with:
-          node-version: lts/*
-          check-latest: true
+          node-version: 24
           registry-url: https://npm.pkg.github.com/
           cache: npm
+
+      - name: Upgrade npm
+        run: |
+          corepack enable
+          npm install -g npm@11.4.2
 
       - name: Set up Git user
         run: |

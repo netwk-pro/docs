@@ -1,7 +1,7 @@
 ---
 date:
   created: 2025-04-18
-  updated: 2025-06-02
+  updated: 2025-06-30
 title: Privacy Policy
 summary: The Privacy Policy established by Network Pro Strategies.
 authors:
@@ -24,7 +24,7 @@ tags:
 # Privacy Policy
 
 **Network Pro Strategies**  
-**Effective Date:** June 2, 2025
+**Effective Date:** June 30, 2025
 
 **Official Version Notice**  
 This document is provided for convenience only. In the event of any discrepancy,
@@ -38,7 +38,7 @@ the authoritative version is the one published at
 3. [Web Analytics and Tracking](#tracking)
 4. [Payment Information](#payment)
 5. [Use of Information](#use)
-6. [Data Sharing](#sharing)
+6. [Legal Requests and Data Disclosure](#legal)
 7. [Data Security](#security)
 8. [User Rights](#rights)
 9. [Third-Party Links](#third-party)
@@ -133,26 +133,35 @@ Information is used to:
 
 <sub>[Back to top](#top)</sub>
 
-<a name="sharing"></a>
+<a name="legal"></a>
 
-## 6. Data Sharing
+## 6. Legal Requests and Data Disclosure
 
-We do not sell personal information. However, we may share personal and business
-information under the following circumstances:
+We do not sell personal or business information. We disclose such data only when
+required by law, and under limited, clearly defined circumstances:
 
-- **With Service Providers:** We may share your information with carefully
-  selected third-party vendors. These providers support essential aspects of our
-  operations—including, but not limited to, payment processing, data analytics,
-  and customer support services. All such partnerships are structured to uphold
-  our core principles of _transparency, self-hosting, and prioritizing user
-  privacy across all infrastructure and data flows_.
-- **Legal Compliance:** We may disclose information if required to do so by
-  applicable law, regulation, legal process, or enforceable governmental
-  request, including subpoenas or court orders.
-- **Business Transfers:** In connection with a merger, acquisition, asset sale,
-  or similar corporate transaction, we may disclose or transfer personal
-  information, provided that reasonable steps are taken to ensure continued
-  confidentiality and compliance with applicable privacy laws.
+- **Legal Compliance:** We may disclose information in response to a valid legal
+  process—such as a subpoena, court order, or other binding legal request issued
+  under applicable law. We do not voluntarily provide user data to government
+  entities or third parties without a legal obligation to do so.
+- **Review and Notice:** Each request for user data is reviewed to ensure it is
+  lawful, specific, and properly served. Unless prohibited by law, we will
+  notify affected users before disclosing any information.
+- **Service Providers:** We may share personal or business information with
+  trusted third-party vendors who support essential business functions (e.g.,
+  payment processing, analytics, customer support). All such partnerships are
+  governed by strict data protection terms and structured to uphold our core
+  principles of _transparency and user privacy_.
+- **Business Transfers:** In the event of a merger, acquisition, or sale of
+  assets, personal and business information may be transferred _only if the
+  receiving party provides written assurances_ that: (a) the information will
+  not be sold or misused, (b) it will be handled in a manner consistent with our
+  privacy commitments, and (c) appropriate technical and contractual safeguards
+  are in place to protect it.
+
+Our policy is to require proper legal documentation and to scrutinize all
+requests on a case-by-case basis. Outside these clearly defined situations, we
+do not share, sell, or otherwise provide access to user information.
 
 <sub>[Back to top](#top)</sub>
 
