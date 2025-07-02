@@ -1,11 +1,10 @@
 ---
 date:
   created: 2025-01-01
-  updated: 2025-06-01
+  updated: 2025-07-01
 title: About Network Pro&trade;
 summary:
   Learn more about Network Pro Strategies (Network Pro&trade;) and the services
-  we offer.
 authors:
   - team
 tags:
@@ -15,14 +14,12 @@ tags:
   - services
 ---
 
-<sup>[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
-`CC-BY-4.0 OR GPL-3.0-or-later`</sup>
+[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
+`CC-BY-4.0 OR GPL-3.0-or-later`
 
 <a name="top"></a>
 
 # About Network Pro&trade;
-
-</section>
 
 [![npmjs](https://img.shields.io/badge/npmjs-white?style=flat&logo=npm&logoColor=%23CB3837&labelColor=white&color=grey&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40networkpro%2Fweb)](https://www.npmjs.com/package/@networkpro/web)
 &nbsp;
@@ -76,10 +73,10 @@ and strengthen your business today.
 You can find our PGP keys and a vCard containing our contact information for
 your convenience below.
 
-|                                                                                                                                                                                      <img decoding="async" loading="lazy" src="https://netwk.pro/img/qr/pgp-support.png" height="150px" width="150px" alt="PGP Key - support@neteng.pro"> | **[support@neteng.pro](https://keys.openpgp.org/search?q=support%40neteng.pro)**<br />**PGP Key (ed25519)**<br />&nbsp;<br /><a href="https://netwk.pro/assets/bin/support@neteng.pro.asc" type="application/pgp-keys" download target="_blank">**asc**</a><br />&nbsp;<br />**6590B992E2E3EFF12738**<br />**7BCE2AF093E9DEC61BA0** |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[contact@s.neteng.pro](https://keys.openpgp.org/search?q=contact%40s.neteng.pro)**<br />**PGP Key (ed25519)**<br />&nbsp;<br /><a href="https://netwk.pro/assets/bin/contact@s.neteng.pro.asc" type="application/pgp-keys" download target="_blank">**asc**</a><br />&nbsp;<br />**E8B4F1193B21601207B0**<br />**80BBAEBBB8F6D4BB723B** | <img decoding="async" loading="lazy" src="https://netwk.pro/img/qr/pgp-contact.png" height="150px" width="150px" alt="PGP Key - contact@s.neteng.pro">                                                                                                                                                                              |
-|                                                                                                                                                                                                                   <img decoding="async" loading="lazy" src="https://netwk.pro/img/qr/vcard.png" height="150px" width="150px" alt="vCard"> | **vCard**<br />&nbsp;<br /><a href="https://netwk.pro/assets/bin/contact.vcf" type="text/vcard" download target="_blank">**vcf**</a>                                                                                                                                                                                                |
+|                                                                                                                                                                                  <img decoding="async" loading="lazy" src="https://netwk.pro/pgp/pgp-support.png" height="150px" width="150px" alt="PGP Key - support@neteng.pro"> | **[support@neteng.pro](https://keys.openpgp.org/search?q=support%40neteng.pro)**<br />**PGP Key (ed25519)**<br />&nbsp;<br /><a href="https://netwk.pro/pgp/support@neteng.pro.asc" type="application/pgp-keys" download target="_blank">**asc**</a><br />&nbsp;<br />**6590B992E2E3EFF12738**<br />**7BCE2AF093E9DEC61BA0** |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[contact@s.neteng.pro](https://keys.openpgp.org/search?q=contact%40s.neteng.pro)**<br />**PGP Key (ed25519)**<br />&nbsp;<br /><a href="https://netwk.pro/pgp/contact@s.neteng.pro.asc" type="application/pgp-keys" download target="_blank">**asc**</a><br />&nbsp;<br />**E8B4F1193B21601207B0**<br />**80BBAEBBB8F6D4BB723B** | <img decoding="async" loading="lazy" src="https://netwk.pro/pgp/pgp-contact.png" height="150px" width="150px" alt="PGP Key - contact@s.neteng.pro">                                                                                                                                                                          |
+|                                                                                                                                                                                                               <img decoding="async" loading="lazy" src="https://netwk.pro/pgp/vcard.png" height="150px" width="150px" alt="vCard"> | **vCard**<br />&nbsp;<br /><a href="https://netwk.pro/bin/contact.vcf" type="text/vcard" download target="_blank">**vcf**</a>                                                                                                                                                                                                |
 
 <sub>[Back to top](#top)</sub>
 
