@@ -1,10 +1,18 @@
-<!-- =====================================================================
-src/README.md
-
-Copyright © 2025 Network Pro Strategies (Network Pro™)
-SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
-This file is part of Network Pro.
-====================================================================== -->
+---
+date:
+  created: 2025-01-01
+  updated: 2025-07-01
+title: About Network Pro&trade;
+summary:
+  Learn more about Network Pro Strategies (Network Pro&trade;) and the services
+authors:
+  - team
+tags:
+  - networkpro
+  - documentation
+  - about
+  - services
+---
 
 [SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
 `CC-BY-4.0 OR GPL-3.0-or-later`
@@ -13,11 +21,9 @@ This file is part of Network Pro.
 
 # About Network Pro&trade;
 
-[![Build Site and Deploy to GH Pages](https://github.com/netwk-pro/docs/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/netwk-pro/docs/actions/workflows/build-and-deploy.yml)
-[![Publish to Registries](https://github.com/netwk-pro/docs/actions/workflows/publish.yml/badge.svg)](https://github.com/netwk-pro/docs/actions/workflows/publish.yml)  
-[![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fdocs?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&color=%23CB3837)](https://www.npmjs.com/package/@networkpro/docs)
-[![Code Style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/CODE_OF_CONDUCT.md)
+[![npmjs](https://img.shields.io/badge/npmjs-white?style=flat&logo=npm&logoColor=%23CB3837&labelColor=white&color=grey&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40networkpro%2Fweb)](https://www.npmjs.com/package/@networkpro/web)
+&nbsp;
+[![GitHub Package Registry](https://img.shields.io/badge/GitHub_Package_Registry-white?style=flat&logo=github&logoColor=%23181717&labelColor=white&color=grey&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40networkpro%2Fweb)](https://github.com/netwk-pro/netwk-pro.github.io/pkgs/npm/web)
 
 ## Security That Respects You
 
