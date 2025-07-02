@@ -13,40 +13,19 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
+  actions: read
   contents: read
   pages: write
   id-token: write
 
 # Allow one concurrent deployment
 concurrency:
-  group: 'build-and-publish'
+  group: 'pages'
   cancel-in-progress: true
 
 jobs:
   check-codeql:
-    name: Check CodeQL Analysis
-    runs-on: ubuntu-24.04
-    # Continue workflow even if this job fails due to inability to find and/or check CodeQL workflow
-    continue-on-error: true
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up GitHub CLI
-        run: sudo apt-get install gh
-
-      - name: Check CodeQL Workflow
-        env:
-          GH_TOKEN: ${{ secrets.NWPRO_ACTION }}
-        run: |
-          gh run list --workflow "CodeQL" --json conclusion --jq '.[0].conclusion' > codeql_status.txt
-          CODEQL_STATUS=$(cat codeql_status.txt)
-          if [[ "$CODEQL_STATUS" != "success" ]]; then
-            echo "CodeQL Analysis did not succeed. Exiting..."
-            exit 1
-          fi
-          rm codeql_status.txt
+    uses: ./.github/workflows/check-codeql.yml
 
   build:
     needs: check-codeql
@@ -61,10 +40,14 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: lts/*
-          check-latest: true
+          node-version: 24
           cache: npm
           cache-dependency-path: package-lock.json
+
+      - name: Upgrade npm
+        run: |
+          corepack enable
+          npm install -g npm@11.4.2
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -78,18 +61,8 @@ jobs:
         with:
           python-version: '3.13'
 
-      - name: Install MkDocs and plugins
-        run: |
-          pip install mkdocs mkdocs-material mkdocs-material-extensions mkdocs-get-deps
-
-      - name: Freeze Python dependencies (for diagnostics)
-        run: pip freeze > freeze.txt
-
-      - name: Upload pip freeze snapshot
-        uses: actions/upload-artifact@v4
-        with:
-          name: pip-freeze-ci
-          path: freeze.txt
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
 
       # Strict mode disabled for mkdocs-material
       - name: Build MkDocs documentation
