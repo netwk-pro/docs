@@ -86,12 +86,19 @@ jobs:
           name: clean-source
           path: ./
 
+      - name: Extract source archive
+        run: tar -xzf clean-source.tar.gz
+
+      - name: Remove extracted source archive
+        run: rm clean-source.tar.gz
+
       - name: Set up Node.js for npmjs
         uses: actions/setup-node@v4
         with:
           node-version: 24
           registry-url: https://registry.npmjs.org/
           cache: npm
+          cache-dependency-path: package-lock.json
 
       - name: Set up Git user
         run: |
@@ -114,12 +121,19 @@ jobs:
           name: clean-source
           path: ./
 
+      - name: Extract source archive
+        run: tar -xzf clean-source.tar.gz
+
+      - name: Remove extracted source archive
+        run: rm clean-source.tar.gz
+
       - name: Set up Node.js for GPR
         uses: actions/setup-node@v4
         with:
           node-version: 24
           registry-url: https://npm.pkg.github.com/
           cache: npm
+          cache-dependency-path: package-lock.json
 
       - name: Set up Git user
         run: |
