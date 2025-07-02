@@ -65,22 +65,25 @@ jobs:
       - name: Clean build directory
         run: rm -rf build/
 
-      # Upload clean source code
-      - name: Upload repository artifacts
+      # Create Git archive of version-controlled files
+      - name: Create clean source archive
+        run: git archive --format=tar.gz --output=clean-source.tar.gz HEAD
+
+      - name: Upload source archive
         uses: actions/upload-artifact@v4
         with:
-          name: repo-artifacts
-          path: ./
+          name: clean-source
+          path: clean-source.tar.gz
 
   publish-npm:
     needs: build
     runs-on: ubuntu-24.04
 
     steps:
-      - name: Download repository artifacts
+      - name: Download clean source archive
         uses: actions/download-artifact@v4
         with:
-          name: repo-artifacts
+          name: clean-source
           path: ./
 
       - name: Set up Node.js for npmjs
@@ -89,11 +92,6 @@ jobs:
           node-version: 24
           registry-url: https://registry.npmjs.org/
           cache: npm
-
-      - name: Upgrade npm
-        run: |
-          corepack enable
-          npm install -g npm@11.4.2
 
       - name: Set up Git user
         run: |
@@ -110,10 +108,10 @@ jobs:
     runs-on: ubuntu-24.04
 
     steps:
-      - name: Download repository artifacts
+      - name: Download clean source archive
         uses: actions/download-artifact@v4
         with:
-          name: repo-artifacts
+          name: clean-source
           path: ./
 
       - name: Set up Node.js for GPR
@@ -122,11 +120,6 @@ jobs:
           node-version: 24
           registry-url: https://npm.pkg.github.com/
           cache: npm
-
-      - name: Upgrade npm
-        run: |
-          corepack enable
-          npm install -g npm@11.4.2
 
       - name: Set up Git user
         run: |
