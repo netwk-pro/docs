@@ -30,12 +30,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: 24
           cache: npm
@@ -44,14 +44,14 @@ jobs:
       - name: Upgrade npm
         run: |
           corepack enable
-          npm install -g npm@11.4.2
+          npm install -g npm@11.6.0
 
       - name: Install Node.js dependencies
         run: npm ci
 
       # MkDocs Integration
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.13'
 
@@ -81,7 +81,7 @@ jobs:
 
     steps:
       - name: Download clean source archive
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v5
         with:
           name: clean-source
           path: ./
@@ -142,7 +142,7 @@ jobs:
 
       - name: Update package name for GPR
         run: |
-          sed -i 's/"name": ".*"/"name": "@netwk-pro\/docs"/' package.json
+          sed -i 's/"name": "[^"]*"/"name": "@netwk-pro\/docs"/' package.json
 
       - name: Publish package to GPR
         run: npm publish
