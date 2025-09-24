@@ -20,7 +20,7 @@ tags:
 # 🤝 Contributing to Network Pro Strategies
 
 **Network Pro Strategies**  
-**Effective Date:** June 7, 2025
+**Effective Date:** September 23, 2025
 
 &nbsp;
 
