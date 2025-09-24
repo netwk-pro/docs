@@ -1,6 +1,6 @@
 ---
 date:
-  created: 2023-07-05
+  created: 2025-07-05
   updated: 2025-09-23
 title: Contributing to Network Pro™
 summary:
