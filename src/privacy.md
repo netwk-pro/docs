@@ -134,6 +134,8 @@ and is processed in accordance with their
 The use of hCaptcha is necessary to maintain the security, integrity, and
 availability of our services.
 
+<sub>[Back to top](#top)</sub>
+
 <a name="payment"></a>
 
 ## 5. Payment Information
