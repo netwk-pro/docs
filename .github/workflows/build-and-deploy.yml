@@ -22,6 +22,9 @@ concurrency:
 jobs:
   check-codeql:
     uses: ./.github/workflows/check-codeql.yml
+    permissions:
+      actions: read
+      contents: read
 
   build:
     needs: check-codeql
