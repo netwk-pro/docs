@@ -1,7 +1,7 @@
 ---
 date:
   created: 2025-04-18
-  updated: 2025-05-21
+  updated: 2025-10-21
 title: Website Terms of Use
 summary: The Privacy Policy established by Network Pro Strategies.
 authors:
@@ -23,7 +23,7 @@ tags:
 # Website Terms of Use
 
 **Network Pro Strategies**  
-**Effective Date:** May 21, 2025
+**Effective Date:** October 21, 2025
 
 **Official Version Notice**  
 This document is provided for convenience only. In the event of any discrepancy,
@@ -69,7 +69,7 @@ using our services.
 ## 2. Platforms Covered
 
 These Terms of Use apply to all platforms associated with the Company, including
-but not limited to: **GitHub, our main website (hosted via Netlify and GitHub
+but not limited to: **GitHub, our main website (hosted via Vercel and GitHub
 Pages), Stack Overflow Teams, Nextcloud, communications on Discord and/or Slack,
 and our social media presence (e.g., Facebook, Instagram, X, and similar
 platforms)**.

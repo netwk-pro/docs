@@ -1,7 +1,7 @@
 ---
 date:
   created: 2025-04-18
-  updated: 2025-06-30
+  updated: 2025-10-21
 title: Privacy Policy
 summary: The Privacy Policy established by Network Pro Strategies.
 authors:
@@ -24,7 +24,7 @@ tags:
 # Privacy Policy
 
 **Network Pro Strategies**  
-**Effective Date:** June 30, 2025
+**Effective Date:** October 21, 2025
 
 **Official Version Notice**  
 This document is provided for convenience only. In the event of any discrepancy,
@@ -36,15 +36,16 @@ the authoritative version is the one published at
 1. [Introduction](#intro)
 2. [Information We Collect](#collect)
 3. [Web Analytics and Tracking](#tracking)
-4. [Payment Information](#payment)
-5. [Use of Information](#use)
-6. [Legal Requests and Data Disclosure](#legal)
-7. [Data Security](#security)
-8. [User Rights](#rights)
-9. [Third-Party Links](#third-party)
-10. [Disclaimers and Limitations](#disclaimers)
-11. [Policy Changes](#changes)
-12. [Contact](#contact)
+4. [Security & Anti-Abuse Measures (hCaptcha)](#hcaptcha)
+5. [Payment Information](#payment)
+6. [Use of Information](#use)
+7. [Legal Requests and Data Disclosure](#legal)
+8. [Data Security](#security)
+9. [User Rights](#rights)
+10. [Third-Party Links](#third-party)
+11. [Disclaimers and Limitations](#disclaimers)
+12. [Policy Changes](#changes)
+13. [Contact](#contact)
 
 ---
 
@@ -110,9 +111,32 @@ change your preference.** Your selection will persist until manually updated.
 _For convenient access, you can manage these settings through our
 [Privacy Dashboard](https://netwk.pro/privacy-dashboard)._
 
+In addition to analytics tools, we also use security measures to protect our
+site from spam and abuse.
+
+<sub>[Back to top](#top)</sub>
+
+<a name="hcaptcha"></a>
+
+## 4.Security & Anti-Abuse Measures (hCaptcha)
+
+We use the hCaptcha security service on certain forms and interactive features
+to protect our website from spam and automated abuse. When hCaptcha is active,
+it may collect information such as your IP address, browser characteristics, and
+user interaction data (for example, mouse movements or keystrokes) to
+distinguish human visitors from bots.
+
+This information is sent to Intuition Machines, Inc., the provider of hCaptcha,
+and is processed in accordance with their
+[Privacy Policy](https://www.hcaptcha.com/privacy) and
+[Terms of Service](https://www.hcaptcha.com/terms).
+
+The use of hCaptcha is necessary to maintain the security, integrity, and
+availability of our services.
+
 <a name="payment"></a>
 
-## 4. Payment Information
+## 5. Payment Information
 
 When processing payments, we may collect credit card details and billing contact
 information. All credit card data is encrypted via TLS and shared only with
@@ -122,7 +146,7 @@ PCI-compliant processors.
 
 <a name="use"></a>
 
-## 5. Use of Information
+## 6. Use of Information
 
 Information is used to:
 
@@ -135,7 +159,7 @@ Information is used to:
 
 <a name="legal"></a>
 
-## 6. Legal Requests and Data Disclosure
+## 7. Legal Requests and Data Disclosure
 
 We do not sell personal or business information. We disclose such data only when
 required by law, and under limited, clearly defined circumstances:
@@ -167,7 +191,7 @@ do not share, sell, or otherwise provide access to user information.
 
 <a name="security"></a>
 
-## 7. Data Security
+## 8. Data Security
 
 We implement industry-standard security measures to protect your data. However,
 no method of transmission over the Internet or electronic storage is completely
@@ -179,7 +203,7 @@ involving personal information.
 
 <a name="rights"></a>
 
-## 8. User Rights
+## 9. User Rights
 
 ### Your Rights and Choices
 
@@ -203,14 +227,14 @@ we voluntarily extend these rights to all users, regardless of residency.
 
 To exercise any of these rights, you may submit a request through our
 [Privacy Rights Request Form](https://netwk.pro/privacy-rights). Alternatively,
-you can email us at **privacy (at) netwk.pro** with the subject line: "**Privacy
-Rights Preferences**".
+you can email us at **[privacy@netwk.pro](mailto:privacy@netwk.pro)** with the
+subject line: "**Privacy Rights Preferences**".
 
 <sub>[Back to top](#top)</sub>
 
 <a name="third-party"></a>
 
-## 9. Third-Party Links
+## 10. Third-Party Links
 
 Our site may contain links to third-party sites. We are not responsible for
 their privacy practices.
@@ -219,7 +243,7 @@ their privacy practices.
 
 <a name="disclaimers"></a>
 
-## 10. Disclaimers and Limitations
+## 11. Disclaimers and Limitations
 
 Network Pro Strategies offers informational content as a public service. No
 warranties are made regarding the accuracy or completeness of such content.
@@ -230,7 +254,7 @@ for third-party services integrated or referenced.
 
 <a name="changes"></a>
 
-## 11. Policy Changes
+## 12. Policy Changes
 
 We may update this policy periodically. Changes are effective upon posting.
 
@@ -238,12 +262,12 @@ We may update this policy periodically. Changes are effective upon posting.
 
 <a name="contact"></a>
 
-## 12. Contact
+## 13. Contact
 
 For questions, contact:
 
 **Network Pro Strategies**  
-📧 General Inquiries: support (at) neteng.pro  
+📧 General Inquiries: support (at) netwk.pro  
 🔐 Secure Email: contact (at) s.neteng.pro  
 📞 Phone: (623) 252-4350
 
