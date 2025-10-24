@@ -1,7 +1,7 @@
 ---
 date:
   created: 2025-04-21
-  updated: 2025-05-28
+  updated: 2025-06-04
 title: Legal, Copyright, and Licensing
 summary:
   Legal, copyright, and licensing information for Network Pro's public
@@ -26,7 +26,7 @@ tags:
 # Legal, Copyright, and Licensing
 
 **Network Pro Strategies**  
-**Effective Date:** June 3, 2025
+**Effective Date:** June 4, 2025
 
 **Official Version Notice**  
 This document is provided for convenience only. In the event of any discrepancy,
@@ -138,7 +138,7 @@ This work is dual-licensed under:
 
 ## 7. Creative Commons License (CC BY 4.0)
 
-<sup>Download: [HTML](https://netwk.pro/assets/license/CC-BY-4.0.html) |
+<sup>View / Download: [HTML](https://netwk.pro/assets/license/CC-BY-4.0.html) |
 [Markdown](https://netwk.pro/assets/license/CC-BY-4.0.md) |
 [Text](https://netwk.pro/assets/license/CC-BY-4.0.txt) |
 [RDFa](https://netwk.pro/assets/license/CC-BY-4.0-rdfa.xml) |
@@ -172,7 +172,7 @@ this License—may be available as further defined within this document.
 
 ## 8. GNU General Public License (GPL)
 
-<sup>Download: [HTML](https://netwk.pro/assets/license/COPYING.html) |
+<sup>View / Download: [HTML](https://netwk.pro/assets/license/COPYING.html) |
 [Markdown](https://netwk.pro/assets/license/COPYING.md) |
 [Text](https://netwk.pro/assets/license/COPYING.txt) |
 [RDFa](https://netwk.pro/assets/license/COPYING-rdfa.xml) |
@@ -306,7 +306,7 @@ current effective date is listed at the top of this document.
 
 The Company may be contacted via our [Contact Form](https://netwk.pro/contact)
 or by email at:  
-📧 `support (at) neteng.pro`
+📧 `support (at) netwk.pro`
 
 <sub>[Back to top](#top)</sub>
 
