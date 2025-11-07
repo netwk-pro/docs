@@ -118,7 +118,7 @@ site from spam and abuse.
 
 <a name="hcaptcha"></a>
 
-## 4.Security & Anti-Abuse Measures (hCaptcha)
+## 4. Security & Anti-Abuse Measures (hCaptcha)
 
 We use the hCaptcha security service on certain forms and interactive features
 to protect our website from spam and automated abuse. When hCaptcha is active,
