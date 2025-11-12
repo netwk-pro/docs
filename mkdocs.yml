@@ -1,6 +1,6 @@
 site_name: Documentation - Network Pro™
 site_url: https://docs.netwk.pro/
-repo_url: https://github.com/netwk-pro/netwk-pro.github.io
+repo_url: https://github.com/netwk-pro/docs
 repo_name: GitHub
 docs_dir: src
 site_dir: build/
@@ -23,8 +23,8 @@ theme:
         name: Switch to light mode
     # Optional light mode
     - scheme: default
-      primary: amber
-      accent: yellow
+      primary: deep orange
+      accent: orange
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -70,7 +70,7 @@ plugins:
       tags_file: tags.md
 
 nav:
-  - About Us: README.md
+  - About Us: index.md
   - Legal Documentation:
       - legal.md
       - privacy.md

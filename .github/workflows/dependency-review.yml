@@ -12,6 +12,8 @@ permissions:
 jobs:
   dependency-review:
     runs-on: ubuntu-24.04
+    env:
+      ENV_MODE: ci
 
     steps:
       - name: 'Checkout Repository'
