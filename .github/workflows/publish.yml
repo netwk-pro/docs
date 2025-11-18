@@ -32,13 +32,14 @@
 name: Publish to Registries
 
 on:
-  workflow_run:
-    workflows: ['Build Site and Deploy to GH Pages']
-    types:
-      - completed
+  release:
+    types: [created]
+  workflow_dispatch:
 
-# Use per-job permissions
-permissions: {}
+permissions:
+  actions: read
+  contents: read
+  packages: write
 
 # Allow one concurrent deployment
 concurrency:
@@ -46,14 +47,14 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  check-codeql:
+    uses: ./.github/workflows/check-codeql.yml
+
   build:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    needs: check-codeql
     runs-on: ubuntu-24.04
     env:
       ENV_MODE: ci
-    permissions:
-      actions: read
-      contents: read
 
     steps:
       - name: Checkout repository
@@ -108,8 +109,6 @@ jobs:
     runs-on: ubuntu-24.04
     env:
       ENV_MODE: ci
-    permissions:
-      contents: read
 
     steps:
       - name: Download clean source archive
@@ -147,9 +146,6 @@ jobs:
     runs-on: ubuntu-24.04
     env:
       ENV_MODE: ci
-    permissions:
-      contents: read
-      packages: write
 
     steps:
       - name: Download clean source archive
