@@ -13,65 +13,55 @@ This file is part of Network Pro.
 
 # About Network Pro&trade;
 
-## Security That Respects You
+## Security, with Intent
 
-At **Network Pro Strategies (Network Pro&trade;)**, we deliver network security
-and engineering, cybersecurity, and digital privacy consulting with clarity,
-credibility, and care. We believe that real security doesn’t have to come at the
-cost of user autonomy, and that privacy-minded solutions can be both practical
-and powerful.
+At **Network Pro Strategies (Network Pro&trade;)**, our work centers on
+advancing practical security, infrastructure resilience, and digital privacy
+through research, development, education, and advocacy.
 
-Our approach is built on a simple principle: **the best security is the one that
-fits.** That means we don’t push ideologies—we apply what works. We advocate for
-and implement **free and open source solutions** where they offer competitive
-functionality, control, and visibility. When proprietary platforms are better
-suited, we deploy them responsibly and securely—ensuring every recommendation is
-grounded in **technical merit**, **scalability**, and **client goals**.
+We design, operate, and study real-world systems with a focus on understanding
+how security works in practice—not just in theory. Our goal is to produce clear,
+credible guidance and tools that respect user autonomy, scale responsibly, and
+reflect the realities of modern infrastructure.
+
+Where appropriate, we also apply this work through limited consulting
+engagements, offering focused expertise in network security, cybersecurity, and
+privacy engineering for organizations seeking intentional, well-reasoned
+solutions.
 
 ### What We Do
 
-As a remote-first consultancy, we support clients across industries and
-geographies with a focus on:
+Network Pro&trade; is focused on internal research, development, education, and
+advocacy in the areas of network security, infrastructure design, and digital
+privacy.
+
+Our work centers on building and operating real-world systems, conducting
+exploratory and applied research, developing proof-of-concept environments, and
+publishing practical insights drawn from hands-on experience. These efforts
+inform the tools, guidance, and educational content we share with the broader
+community.
+
+We also offer **limited consulting on a selective, case-by-case basis**,
+typically aligned with our research focus areas, including:
 
 - **Network Hardening & Perimeter Defense**
 - **Firewall Architecture & Policy Optimization**
 - **Zero Trust Implementation**
-- **Secure Infrastructure Design & Implementation**
+- **Secure Infrastructure Architecture**
 - **Risk Reduction & Security Posture Assessment**
 
-Our consulting engagements range from tactical one-off solutions to strategic,
-long-term partnerships. Whether it’s helping a business segment its internal
-network, lock down its cloud footprint, or plan scalable defenses—we deliver
-clear value, with zero fluff.
+Rather than operating as a traditional consultancy, our engagement model
+prioritizes depth, intent, and alignment. Consulting work is approached as an
+extension of our internal projects and research—not as a volume-driven service
+offering.
 
-Additionally, Network Pro™ provides
-[on-site services](https://netwk.pro/services) in the Greater Phoenix
-Metropolitan Area (Maricopa County, AZ). Our
-[on-site services](https://netwk.pro/services) are available to both consumers
-and businesses. In addition to consulting, we offer the following services:
+At Network Pro&trade;, we believe strong security comes from understanding
+systems deeply, communicating clearly, and designing with purpose. Our goal is
+not scale for its own sake, but meaningful work that advances security practice,
+privacy awareness, and resilient infrastructure.
 
-- **Home Modem Setup**
-- **Basic Router Setup**
-- **Wi-Fi and Wireless Networking Setup**
-- **Network Troubleshooting**
-- **Network Security Review**
-- **Add a Wi-Fi Device**
-- **Add or Configure a Printer**
-
-&nbsp;
-
-We also believe education is a core pillar of real-world security. That’s why we
-invest in raising awareness—across both technical and general audiences—on best
-practices in digital privacy, secure design, and threat mitigation.
-
-At Network Pro™, we deliver robust, intentional solutions for individuals and
-organizations that prioritize integrity — without compromising agility or trust.
-We don't just protect infrastructure. We protect peace of mind.
-
-Ready to take the next step? [Let's connect](https://netwk.pro/contact) to
-explore how we can help fortify your home or business.
-[Schedule a free, initial consultation](https://netwk.pro/consultation) today
-and discover what's possible.
+Interested in our work or exploring a potential collaboration?
+[Let's connect](https://netwk.pro/contact).
 
 ---
 
