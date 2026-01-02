@@ -22,6 +22,16 @@ version increments reflecting both user-visible and operational impact.
 
 ---
 
+## [1.4.1] - 2026-01-01
+
+### Changed
+
+- Updated `README.md` to better reflect the company’s current mission, focus,
+  and messaging.
+- Bumped project version to `v1.4.1`.
+
+---
+
 ## [1.4.0] – 2026-01-01
 
 ### Added
@@ -70,5 +80,6 @@ version increments reflecting both user-visible and operational impact.
 
 <!-- Link references -->
 
-[Unreleased]: https://github.com/netwk-pro/docs/compare/v1.4.0...HEAD
+[Unreleased]: https://github.com/netwk-pro/docs/compare/v1.4.1...HEAD
+[1.4.1]: https://github.com/netwk-pro/docs/releases/tag/v1.4.1
 [1.4.0]: https://github.com/netwk-pro/docs/releases/tag/v1.4.0
