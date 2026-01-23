@@ -1,7 +1,7 @@
 ---
 date:
   created: 2025-04-18
-  updated: 2025-10-21
+  updated: 2026-01-22
 title: Privacy Policy
 summary: The Privacy Policy established by Network Pro Strategies.
 authors:
@@ -16,15 +16,15 @@ tags:
   - privacy-policy
 ---
 
+<a name="top"></a>
+
 <sup>[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
 `CC-BY-4.0 OR GPL-3.0-or-later`</sup>
-
-<a name="top"></a>
 
 # Privacy Policy
 
 **Network Pro Strategies**  
-**Effective Date:** October 21, 2025
+**Effective Date:** January 11, 2026
 
 **Official Version Notice**  
 This document is provided for convenience only. In the event of any discrepancy,
@@ -60,9 +60,8 @@ Network Pro Strategies ("Company," "we," "us," or "our") is committed to
 protecting the privacy of clients and website visitors. This Privacy Policy
 outlines how we collect, use, and safeguard your information when you interact
 with our website or services, consistent with applicable U.S. federal law and
-Arizona law, including Title 18, Chapter 5, Article 4 of the
-**[Arizona Revised Statutes](https://www.azleg.gov/arstitle/) (A.R.S. §§ 18-551,
-18-552)**.
+Arizona law, including **[A.R.S.](https://www.azleg.gov/arstitle)** §§ 18-551,
+18-552.
 
 <a name="collect"></a>
 
@@ -271,7 +270,7 @@ For questions, contact:
 **Network Pro Strategies**  
 📧 General Inquiries: support (at) netwk.pro  
 🔐 Secure Email: contact (at) s.neteng.pro  
-📞 Phone: (623) 252-4350
+📞 Phone: (602) 428-5300
 
 ---
 

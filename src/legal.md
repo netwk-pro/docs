@@ -1,7 +1,7 @@
 ---
 date:
   created: 2025-04-21
-  updated: 2025-06-04
+  updated: 2026-01-22
 title: Legal, Copyright, and Licensing
 summary:
   Legal, copyright, and licensing information for Network Pro's public
@@ -18,10 +18,10 @@ tags:
   - usage
 ---
 
+<a name="top"></a>
+
 <sup>[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
 `CC-BY-4.0 OR GPL-3.0-or-later`</sup>
-
-<a name="top"></a>
 
 # Legal, Copyright, and Licensing
 
