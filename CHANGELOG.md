@@ -102,6 +102,7 @@ version increments reflecting both user-visible and operational impact.
 
 <!-- Link references -->
 
-[Unreleased]: https://github.com/netwk-pro/docs/compare/v1.4.1...HEAD
+[Unreleased]: https://github.com/netwk-pro/docs/compare/v1.4.2...HEAD
+[1.4.2]: https://github.com/netwk-pro/docs/releases/tag/v1.4.2
 [1.4.1]: https://github.com/netwk-pro/docs/releases/tag/v1.4.1
 [1.4.0]: https://github.com/netwk-pro/docs/releases/tag/v1.4.0
