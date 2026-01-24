@@ -1,6 +1,6 @@
 # .github/workflows/publish.yml
 #
-# Copyright © 2025 Network Pro Strategies (Network Pro™)
+# Copyright © 2025-2026 Network Pro Strategies (Network Pro™)
 # SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
 # This file is part of Network Pro
 
@@ -58,7 +58,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
@@ -72,7 +72,7 @@ jobs:
       - name: Upgrade npm
         run: |
           corepack enable
-          npm install -g npm@11.6.2
+          npm install -g npm@11.7.0
 
       - name: Install Node.js dependencies
         run: npm ci
@@ -99,7 +99,7 @@ jobs:
         run: git archive --format=tar.gz --output=clean-source.tar.gz HEAD
 
       - name: Upload source archive
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: clean-source
           path: clean-source.tar.gz
@@ -112,7 +112,7 @@ jobs:
 
     steps:
       - name: Download clean source archive
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v7
         with:
           name: clean-source
           path: ./
@@ -149,7 +149,7 @@ jobs:
 
     steps:
       - name: Download clean source archive
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v7
         with:
           name: clean-source
           path: ./

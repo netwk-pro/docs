@@ -1,7 +1,7 @@
 ---
 date:
   created: 2025-07-05
-  updated: 2025-09-23
+  updated: 2026-01-22
 title: Contributing to Network Pro™
 summary:
   Instructions for getting involved and contributing to Network Pro Strategies.
@@ -12,10 +12,10 @@ tags:
   - contributing
 ---
 
+<a name="top"></a>
+
 <sup>[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
 `CC-BY-4.0 OR GPL-3.0-or-later`</sup>
-
-<a name="top"></a>
 
 # 🤝 Contributing to Network Pro Strategies
 

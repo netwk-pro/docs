@@ -1,7 +1,7 @@
 <!-- =====================================================================
 CHANGELOG.md
 
-Copyright © 2025 Network Pro Strategies (Network Pro™)
+Copyright © 2025-2026 Network Pro Strategies (Network Pro™)
 SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
 This file is part of Network Pro.
 ====================================================================== -->
@@ -19,6 +19,28 @@ version increments reflecting both user-visible and operational impact.
 ---
 
 ## [Unreleased]
+
+---
+
+## [1.4.2] - 2026-01-22
+
+### Changed
+
+- Updated all headers to read `© 2025-2026`, indicating continuing development.
+- Updated `.github/workflows/publish.yml` to utilize **npm** `v11.7.0`.
+- Updated GitHub workflow action versions (`actions/checkout`,
+  `actions/upload-artifact`, and `actions/download-artifact`) to the latest
+  available versions.
+- Refreshed timestamps in `src/sitemap.xml`.
+- Updated `src/privacy.md` and `src/terms-use.md` to accurately mirror the
+  verbiage of the official versions on our main website.
+- Bumped project version to `v1.4.2`.
+- Updated dependencies:
+  - `mkdocs-material` `9.7.0` → `9.7.1`
+  - `globals` `^17.0.0` → `^17.1.0`
+  - `prettier` `3.7.4` → `3.8.1`
+  - `stylelint` `^16.26.1` → `^17.0.0`
+  - `stylelint-config-recommended` `^17.0.0` → `^18.0.0`
 
 ---
 
@@ -80,6 +102,7 @@ version increments reflecting both user-visible and operational impact.
 
 <!-- Link references -->
 
-[Unreleased]: https://github.com/netwk-pro/docs/compare/v1.4.1...HEAD
+[Unreleased]: https://github.com/netwk-pro/docs/compare/v1.4.2...HEAD
+[1.4.2]: https://github.com/netwk-pro/docs/releases/tag/v1.4.2
 [1.4.1]: https://github.com/netwk-pro/docs/releases/tag/v1.4.1
 [1.4.0]: https://github.com/netwk-pro/docs/releases/tag/v1.4.0

@@ -1,9 +1,9 @@
 ---
 date:
   created: 2025-04-18
-  updated: 2025-10-21
-title: Website Terms of Use
-summary: The Privacy Policy established by Network Pro Strategies.
+  updated: 2026-01-22
+title: Terms of Use
+summary: The Terms of Use established by Network Pro Strategies.
 authors:
   - team
 tags:
@@ -15,15 +15,15 @@ tags:
   - platforms
 ---
 
+<a name="top"></a>
+
 <sup>[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
 `CC-BY-4.0 OR GPL-3.0-or-later`</sup>
 
-<a name="top"></a>
-
-# Website Terms of Use
+# Terms of Use
 
 **Network Pro Strategies**  
-**Effective Date:** October 21, 2025
+**Effective Date:** January 11, 2026
 
 **Official Version Notice**  
 This document is provided for convenience only. In the event of any discrepancy,
@@ -57,10 +57,10 @@ the authoritative version is the one published at
 
 ## 1. Introduction
 
-Welcome! By accessing or using any of the platforms operated by Network Pro
-Strategies ("Company," "we," "us," or "our"), you agree to be bound by these
-Terms of Use ("Terms"). If you do not agree to these Terms, please refrain from
-using our services.
+By accessing or using any of the platforms operated by Network Pro Strategies
+("Company," "we," "us," or "our"), you agree to be bound by these Terms of Use
+("Terms"). If you do not agree to these Terms, please refrain from using our
+services.
 
 <sub>[Back to top](#top)</sub>
 
@@ -69,10 +69,9 @@ using our services.
 ## 2. Platforms Covered
 
 These Terms of Use apply to all platforms associated with the Company, including
-but not limited to: **GitHub, our main website (hosted via Vercel and GitHub
-Pages), Stack Overflow Teams, Nextcloud, communications on Discord and/or Slack,
-and our social media presence (e.g., Facebook, Instagram, X, and similar
-platforms)**.
+but not limited to: **GitHub, our main website (hosted via Vercel), Stack
+Internal, Nextcloud, communications on Discord, and our social media presence
+(e.g., Facebook, Instagram, X, and similar platforms)**.
 
 <sub>[Back to top](#top)</sub>
 
