@@ -27,7 +27,7 @@ version increments reflecting both user-visible and operational impact.
 ### Changed
 
 - Bumped project version to `v1.4.3`.
-- Updated dependencies:
+- Updated front-end tooling dependencies:
   - `autoprefixer` `^10.4.23` → `^10.4.27`
   - `postcss` `^8.5.6` → `^8.5.8`
   - `globals` `^17.1.0` → `^17.4.0`
@@ -36,6 +36,8 @@ version increments reflecting both user-visible and operational impact.
   - `@eslint/json` `^0.14.0` → `^1.0.1`
   - `eslint` `^9.39.2` → `^10.0.2`
   - `markdownlint-cli2` `^0.20.0` → `^0.21.0`
+- Updated Python dependencies:
+  - `mkdocs-material` `9.7.1` → `9.7.4`
 
 ---
 
