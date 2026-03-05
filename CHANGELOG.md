@@ -22,6 +22,23 @@ version increments reflecting both user-visible and operational impact.
 
 ---
 
+## [1.4.3] - 2026-03-04
+
+### Changed
+
+- Bumped project version to `v1.4.3`.
+- Updated dependencies:
+  - `autoprefixer` `^10.4.23` → `^10.4.27`
+  - `postcss` `^8.5.6` → `^8.5.8`
+  - `globals` `^17.1.0` → `^17.4.0`
+  - `stylelint` `^17.0.0` → `^17.4.0`
+  - `@eslint/js` `^9.39.2` → `^10.0.1`
+  - `@eslint/json` `^0.14.0` → `^1.0.1`
+  - `eslint` `^9.39.2` → `^10.0.2`
+  - `markdownlint-cli2` `^0.20.0` → `^0.21.0`
+
+---
+
 ## [1.4.2] - 2026-01-22
 
 ### Changed
@@ -102,7 +119,8 @@ version increments reflecting both user-visible and operational impact.
 
 <!-- Link references -->
 
-[Unreleased]: https://github.com/netwk-pro/docs/compare/v1.4.2...HEAD
+[Unreleased]: https://github.com/netwk-pro/docs/compare/v1.4.3...HEAD
+[1.4.3]: https://github.com/netwk-pro/docs/releases/tag/v1.4.3
 [1.4.2]: https://github.com/netwk-pro/docs/releases/tag/v1.4.2
 [1.4.1]: https://github.com/netwk-pro/docs/releases/tag/v1.4.1
 [1.4.0]: https://github.com/netwk-pro/docs/releases/tag/v1.4.0
