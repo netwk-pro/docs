@@ -22,6 +22,47 @@ version increments reflecting both user-visible and operational impact.
 
 ---
 
+## [1.4.4] - 2026-08-02
+
+### Changed
+
+- Updated social link labels in `mkdocs.yml` to use the full Network Pro™ name.
+- Replaced the PostHog Cloud analytics disclosure in `src/privacy.md` with the
+  site's self-hosted Matomo practices, including tracking-choice precedence and
+  partial IP address masking.
+- Refreshed the privacy policy dates and the corresponding timestamps in
+  `src/sitemap.xml`.
+- Updated `.github/workflows/publish.yml` to install npm `v12.0.2` directly and
+  removed the Corepack enablement step.
+- Bumped project version to `v1.4.4`.
+- Added npm dependency overrides for `brace-expansion`, `fast-uri`, `picomatch`,
+  and `shell-quote`.
+- Allowed the `simple-git-hooks@2.13.1` install script through the package
+  script policy.
+- Refreshed `package-lock.json` for the updated direct and transitive
+  dependencies.
+- Updated front-end tooling dependencies:
+  - `@eslint/json` `^1.0.1` → `^2.0.1`
+  - `autoprefixer` `^10.4.27` → `^10.5.4`
+  - `browserslist` `^4.28.1` → `^4.28.7`
+  - `eslint` `^10.0.2` → `^10.8.0`
+  - `globals` `^17.4.0` → `^17.9.0`
+  - `markdownlint` `^0.40.0` → `^0.41.1`
+  - `markdownlint-cli2` `^0.21.0` → `^0.23.2`
+  - `postcss` `^8.5.8` → `^8.5.25`
+  - `prettier` `3.8.1` → `3.9.6`
+  - `stylelint` `^17.4.0` → `^17.14.1`
+  - `stylelint-config-html` `^1.1.0` → `^2.0.0`
+  - `stylelint-order` `^7.0.1` → `^8.1.1`
+- Updated Python dependencies:
+  - `mkdocs-material` `9.7.4` → `9.7.7`
+
+### Removed
+
+- Removed `mkdocs-get-deps` `0.2.0` as a direct Python dependency.
+
+---
+
 ## [1.4.3] - 2026-03-04
 
 ### Changed
@@ -121,7 +162,8 @@ version increments reflecting both user-visible and operational impact.
 
 <!-- Link references -->
 
-[Unreleased]: https://github.com/netwk-pro/docs/compare/v1.4.3...HEAD
+[Unreleased]: https://github.com/netwk-pro/docs/compare/v1.4.4...HEAD
+[1.4.4]: https://github.com/netwk-pro/docs/releases/tag/v1.4.4
 [1.4.3]: https://github.com/netwk-pro/docs/releases/tag/v1.4.3
 [1.4.2]: https://github.com/netwk-pro/docs/releases/tag/v1.4.2
 [1.4.1]: https://github.com/netwk-pro/docs/releases/tag/v1.4.1

@@ -1,7 +1,7 @@
 ---
 date:
   created: 2025-04-18
-  updated: 2026-01-22
+  updated: 2026-08-02
 title: Privacy Policy
 summary: The Privacy Policy established by Network Pro Strategies.
 authors:
@@ -24,7 +24,7 @@ tags:
 # Privacy Policy
 
 **Network Pro Strategies**  
-**Effective Date:** January 11, 2026
+**Effective Date:** August 2, 2026
 
 **Official Version Notice**  
 This document is provided for convenience only. In the event of any discrepancy,
@@ -80,12 +80,11 @@ We may collect the following categories of information:
 
 ## 3. Web Analytics and Tracking
 
-To better understand visitor behavior and optimize website functionality, we use
-**PostHog Cloud**, a hosted version of the open-source PostHog analytics
-platform. This tool helps us evaluate site performance and user engagement
-through the collection of non-personally identifiable technical data.
+Website analytics are collected through
+<a href="https://matomo.org/">Matomo</a>, which runs on our own infrastructure,
+only when permitted by your tracking preferences and browser privacy signals.
 
-PostHog Cloud may collect and process information such as:
+When analytics are enabled, they may include:
 
 - Pages visited and navigation behavior
 - Device type, browser version, and operating system
@@ -93,22 +92,24 @@ PostHog Cloud may collect and process information such as:
 - Referral URLs and outbound link activity
 - General geolocation (approximate, based on IP address)
 
-We configure PostHog to prioritize user privacy. **Analytics tracking is
-automatically disabled when a user's browser sends a “Do Not Track” (DNT) or
+We configure analytics preferences to prioritize user privacy. **When your
+browser sends a "Do Not Track" (DNT) or
 [“Global Privacy Control” (GPC / Sec-GPC)](https://globalprivacycontrol.org/)
-signal**. No further action is required—your browser settings are honored by
-default.
+signal, we honor that preference by default.** If you make a manual tracking
+choice on this site, that choice is stored in a browser cookie and takes
+precedence over the browser signal.
 
-You can view your current tracking status on the
-[authoritative Privacy Policy page](https://netwk.pro/privacy) or via the
-[Privacy Dashboard](https://netwk.pro/privacy-dashboard). Additionally, you can
-set manual opt-out and opt-in settings stored as browser cookies. These settings
-override any Do Not Track (DNT) or Global Privacy Control (GPC) signals. **If
-you opt out, analytics tracking via PostHog is disabled entirely until you
-change your preference.** Your selection will persist until manually updated.
+You can view your current tracking status below, along with manual opt-out and
+opt-in settings. **If you opt out, analytics tracking remains disabled; if you
+opt in, analytics tracking is enabled.** Your selection will persist until
+manually updated.
 
 _For convenient access, you can manage these settings through our
 [Privacy Dashboard](https://netwk.pro/privacy-dashboard)._
+
+Matomo receives pageview and limited event analytics only when tracking is
+enabled. We do not use Matomo to identify individual users, and IP addresses are
+partially masked before storage.
 
 In addition to analytics tools, we also use security measures to protect our
 site from spam and abuse.
