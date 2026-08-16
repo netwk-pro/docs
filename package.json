@@ -1,6 +1,6 @@
 {
   "name": "@networkpro/docs",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "description": "The documentation portal for Network Pro Strategies (Network Pro™)",
   "keywords": [
     "android",
@@ -50,14 +50,14 @@
     "@eslint/js": "^10.0.1",
     "@eslint/json": "^2.0.1",
     "autoprefixer": "^10.5.4",
-    "browserslist": "^4.28.7",
-    "eslint": "^10.8.0",
+    "browserslist": "^4.28.8",
+    "eslint": "^10.8.1",
     "eslint-config-prettier": "^10.1.8",
-    "globals": "^17.9.0",
+    "globals": "^17.11.0",
     "markdownlint": "^0.41.1",
     "markdownlint-cli2": "^0.23.2",
     "npm-run-all": "^4.1.5",
-    "postcss": "^8.5.25",
+    "postcss": "^8.5.26",
     "prettier": "3.9.6",
     "simple-git-hooks": "^2.13.1",
     "stylelint": "^17.14.1",
@@ -66,10 +66,6 @@
     "stylelint-order": "^8.1.1"
   },
   "overrides": {
-    "brace-expansion": "^5.0.9",
-    "fast-uri": "^3.1.4",
-    "picomatch": "^2.3.2",
-    "shell-quote": "^1.10.0"
   },
   "simple-git-hooks": {
     "pre-commit": "if [ \"$CI\" = \"true\" ]; then exit 0; else npm run lint:all; fi",
