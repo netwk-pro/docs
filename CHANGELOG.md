@@ -22,6 +22,27 @@ version increments reflecting both user-visible and operational impact.
 
 ---
 
+## [1.4.5] - 2026-08-16
+
+### Changed
+
+- Bumped project version to `v1.4.5`.
+- Updated the last-updated metadata date in `src/sitemap.xml` to `2026-08-16`.
+- Refreshed `package-lock.json` for the updated direct and transitive
+  dependencies.
+- Updated front-end tooling dependencies:
+  - `browserslist` `^4.28.7` → `^4.28.8`
+  - `eslint` `^10.8.0` → `^10.8.1`
+  - `postcss` `^8.5.25` → `^8.5.26`
+  - `globals` `^17.9.0` → `^17.11.0`
+
+### Removed
+
+- Removed npm dependency overrides for `brace-expansion`, `fast-uri`,
+  `picomatch`, and `shell-quote`.
+
+---
+
 ## [1.4.4] - 2026-08-02
 
 ### Changed
@@ -162,7 +183,8 @@ version increments reflecting both user-visible and operational impact.
 
 <!-- Link references -->
 
-[Unreleased]: https://github.com/netwk-pro/docs/compare/v1.4.4...HEAD
+[Unreleased]: https://github.com/netwk-pro/docs/compare/v1.4.5...HEAD
+[1.4.5]: https://github.com/netwk-pro/docs/releases/tag/v1.4.5
 [1.4.4]: https://github.com/netwk-pro/docs/releases/tag/v1.4.4
 [1.4.3]: https://github.com/netwk-pro/docs/releases/tag/v1.4.3
 [1.4.2]: https://github.com/netwk-pro/docs/releases/tag/v1.4.2
